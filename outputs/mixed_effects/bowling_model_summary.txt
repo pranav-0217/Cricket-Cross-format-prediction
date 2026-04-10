@@ -1,0 +1,36 @@
+=== Model 1: log(econ) ~ format + (1|player) ===
+         Mixed Linear Model Regression Results
+=======================================================
+Model:            MixedLM Dependent Variable: y1       
+No. Observations: 1773    Method:             REML     
+No. Groups:       795     Scale:              0.0094   
+Min. group size:  2       Log-Likelihood:     1037.6470
+Max. group size:  4       Converged:          Yes      
+Mean group size:  2.2                                  
+-------------------------------------------------------
+             Coef. Std.Err.    z    P>|z| [0.025 0.975]
+-------------------------------------------------------
+Intercept    1.116    0.006 182.868 0.000  1.104  1.128
+format_odi   0.460    0.006  81.484 0.000  0.449  0.471
+format_t20   0.872    0.007 121.287 0.000  0.858  0.887
+Group Var    0.014    0.013                            
+=======================================================
+
+
+=== Model 2: log(avg) ~ format + (1|player) ===
+        Mixed Linear Model Regression Results
+======================================================
+Model:            MixedLM Dependent Variable: y2      
+No. Observations: 1773    Method:             REML    
+No. Groups:       795     Scale:              0.0486  
+Min. group size:  2       Log-Likelihood:     -90.0398
+Max. group size:  4       Converged:          Yes     
+Mean group size:  2.2                                 
+------------------------------------------------------
+           Coef.  Std.Err.    z    P>|z| [0.025 0.975]
+------------------------------------------------------
+Intercept   3.536    0.011 322.489 0.000  3.515  3.558
+format_odi -0.063    0.013  -5.032 0.000 -0.088 -0.039
+format_t20 -0.385    0.015 -25.189 0.000 -0.415 -0.355
+Group Var   0.019    0.013                            
+======================================================

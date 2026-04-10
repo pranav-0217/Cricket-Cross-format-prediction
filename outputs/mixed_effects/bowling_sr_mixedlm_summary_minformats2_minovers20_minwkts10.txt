@@ -1,0 +1,24 @@
+Bowling Strike Rate mixed-effects model
+N rows used: 1773
+Unique players: 795
+Formats present: ['ODI', 'T20', 'Test']
+Optimizer used: powell
+Random intercept variance: 0.023303044917041313
+Residual variance: 0.038038266716328574
+
+            Mixed Linear Model Regression Results
+=============================================================
+Model:               MixedLM  Dependent Variable:  log_metric
+No. Observations:    1773     Method:              REML      
+No. Groups:          795      Scale:               0.0380    
+Min. group size:     2        Log-Likelihood:      32.5458   
+Max. group size:     4        Converged:           Yes       
+Mean group size:     2.2                                     
+-------------------------------------------------------------
+                  Coef.  Std.Err.    z    P>|z| [0.025 0.975]
+-------------------------------------------------------------
+Intercept          3.687    0.009 418.385 0.000  3.670  3.704
+C(format)[T.Test]  0.525    0.011  46.644 0.000  0.503  0.547
+C(format)[T.T20]  -0.742    0.012 -60.109 0.000 -0.766 -0.717
+Group Var          0.023    0.015                            
+=============================================================

@@ -1,0 +1,5 @@
+metric_set,outcome,R2,RMSE,MAPE
+marginal | avg (fixed effects only),avg,0.1919,0.5829,162729.66
+marginal | sr  (fixed effects only),sr,0.6271,0.2672,4.84
+conditional | avg (fixed+player),avg,0.8027,0.288,69725.49
+conditional | sr  (fixed+player),sr,0.8814,0.1507,2.63

@@ -1,8 +1,11 @@
 # Data files (too large for git)
 Data/
-outputs/
-*.csv
 *.parquet
+
+# Large model files (traces)
+*.nc
+*.pkl
+*.pickle
 
 # Python
 __pycache__/
@@ -48,8 +51,3 @@ Thumbs.db
 .cache/
 *.cache
 .pytest_cache/
-
-# Model outputs
-*.nc
-*.pkl
-*.pickle

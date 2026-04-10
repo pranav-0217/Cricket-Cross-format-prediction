@@ -1,0 +1,7 @@
+metric_set,outcome,R2,RMSE,MAPE
+marginal | avg (fixed effects only),avg,-0.0614,11.8888,67.57
+marginal | sr  (fixed effects only),sr,0.6161,19.9397,22.11
+conditional | avg (fixed + player effects),avg,0.7823,5.3844,22.34
+conditional | sr  (fixed + player effects),sr,0.8868,10.8298,11.02
+"LOPO-CV | avg (new player, psi=0)",avg,-0.0614,11.8888,67.57
+"LOPO-CV | sr  (new player, psi=0)",sr,0.6161,19.9397,22.11

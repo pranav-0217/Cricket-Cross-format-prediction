@@ -1,0 +1,5 @@
+metric_set,outcome,R2,RMSE
+marginal | econ (fixed only),econ,0.8702,0.1342
+marginal | avg  (fixed only),avg,0.2898,0.2556
+conditional | econ (fixed+player),econ,0.9524,0.0813
+conditional | avg  (fixed+player),avg,0.5756,0.1976

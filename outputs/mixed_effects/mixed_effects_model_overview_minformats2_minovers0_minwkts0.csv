@@ -1,0 +1,3 @@
+metric,label,n_rows,n_players,optimizer,aic,bic,loglik,converged,fixed_effects,group_variance,residual_variance,group_variance_positive,residual_variance_positive
+sr,Bowling Strike Rate,3445,1506,lbfgs,,,inf,True,"{'Intercept': 0.0, 'C(format)[T.Test]': 0.591050014467769, 'C(format)[T.T20]': -0.7229924125284429}",0.0,0.08340086973173111,False,True
+econ,Bowling Economy,4159,1814,lbfgs,,,inf,True,"{'Intercept': 0.0, 'C(format)[T.Test]': -0.4478193907170456, 'C(format)[T.T20]': 0.39466863839095784}",0.0,0.02813513604939563,False,True

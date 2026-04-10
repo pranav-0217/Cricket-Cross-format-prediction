@@ -1,0 +1,7 @@
+metric_set,outcome,R2,RMSE,MAPE
+marginal | econ (fixed effects only),econ,0.8295,0.7647,12.14
+marginal | avg  (fixed effects only),avg,0.1853,9.4959,20.72
+conditional | econ (fixed + player effects),econ,0.9502,0.4133,6.24
+conditional | avg  (fixed + player effects),avg,0.4553,7.7646,15.55
+"LOPO-CV | econ (new player, psi=0)",econ,0.8295,0.7647,12.14
+"LOPO-CV | avg  (new player, psi=0)",avg,0.1853,9.4959,20.72

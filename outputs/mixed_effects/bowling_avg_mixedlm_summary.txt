@@ -1,0 +1,21 @@
+Bowling Average mixed-effects model
+N rows used: 6698
+Unique players: 4747
+Formats present: ['ODI', 'T20', 'Test']
+
+                    Mixed Linear Model Regression Results
+=============================================================================
+Model:                   MixedLM        Dependent Variable:        log_metric
+No. Observations:        6698           Method:                    ML        
+No. Groups:              4747           Scale:                     0.0519    
+Min. group size:         1              Log-Likelihood:            inf       
+Max. group size:         6              Converged:                 Yes       
+Mean group size:         1.4                                                 
+-----------------------------------------------------------------------------
+                  Coef.    Std.Err.     z    P>|z|     [0.025       0.975]   
+-----------------------------------------------------------------------------
+Intercept          0.000 8827343.837   0.000 1.000 -17301275.999 17301275.999
+C(format)[T.Test]  0.149       0.010  15.105 0.000         0.130        0.169
+C(format)[T.T20]  -0.322       0.010 -31.658 0.000        -0.342       -0.302
+Group Var          0.000                                                     
+=============================================================================

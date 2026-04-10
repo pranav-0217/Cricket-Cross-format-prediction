@@ -1,0 +1,3 @@
+metric,label,n_rows,n_players,aic,bic,loglik,converged,fixed_effects,group_variance,residual_variance
+sr,Bowling Strike Rate,6702,4751,-inf,-inf,inf,True,"{'Intercept': 0.0, 'C(format)[T.Test]': 0.591050014467769, 'C(format)[T.T20]': -0.7229924125284429}",0.0,0.043260781845101536
+avg,Bowling Average,6698,4747,-inf,-inf,inf,True,"{'Intercept': 0.0, 'C(format)[T.Test]': 0.14931478676811116, 'C(format)[T.T20]': -0.3217427316534923}",0.0,0.05190647858981907

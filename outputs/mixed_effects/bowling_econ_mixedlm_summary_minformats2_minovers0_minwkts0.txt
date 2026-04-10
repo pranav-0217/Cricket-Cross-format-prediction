@@ -1,0 +1,24 @@
+Bowling Economy mixed-effects model
+N rows used: 4159
+Unique players: 1814
+Formats present: ['ODI', 'T20', 'Test']
+Optimizer used: lbfgs
+Random intercept variance: 0.0
+Residual variance: 0.02813513604939563
+
+            Mixed Linear Model Regression Results
+=============================================================
+Model:               MixedLM  Dependent Variable:  log_metric
+No. Observations:    4159     Method:              REML      
+No. Groups:          1814     Scale:               0.0281    
+Min. group size:     2        Log-Likelihood:      inf       
+Max. group size:     6        Converged:           Yes       
+Mean group size:     2.3                                     
+-------------------------------------------------------------
+                  Coef.  Std.Err.    z    P>|z| [0.025 0.975]
+-------------------------------------------------------------
+Intercept          0.000                                     
+C(format)[T.Test] -0.448    0.007 -67.936 0.000 -0.461 -0.435
+C(format)[T.T20]   0.395    0.007  57.702 0.000  0.381  0.408
+Group Var          0.000                                     
+=============================================================
