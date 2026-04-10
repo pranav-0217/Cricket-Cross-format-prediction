@@ -1,0 +1,17 @@
+pandas
+scikit-learn
+matplotlib
+numpy==2.0.0
+bs4
+seaborn
+requests
+webdriver-manager
+ipykernel
+selenium
+shap
+xgboost
+hyperopt
+statsmodels
+tensorflow
+keras_tuner
+keras
