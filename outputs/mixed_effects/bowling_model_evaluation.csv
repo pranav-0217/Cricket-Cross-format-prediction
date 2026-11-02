@@ -1,0 +1,5 @@
+metric_set,outcome,R2,MAE,RMSE,MAPE
+marginal | econ (fixed effects only),econ,0.829,0.5817,0.7635,12.07
+marginal | avg  (fixed effects only),avg,0.1792,6.3894,8.9077,20.16
+conditional | econ (fixed + player effects),econ,0.9493,0.3006,0.4156,6.11
+conditional | avg  (fixed + player effects),avg,0.4865,4.6929,7.0452,14.46

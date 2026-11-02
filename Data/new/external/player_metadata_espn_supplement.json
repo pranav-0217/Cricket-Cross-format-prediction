@@ -1,0 +1,1118 @@
+[
+  {
+    "player_id": "4523",
+    "full_name": "Gregory Dale Campbell",
+    "dob": "1964-03-10",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/4523"
+  },
+  {
+    "player_id": "5385",
+    "full_name": "David Robert Gilbert",
+    "dob": "1960-12-29",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/5385"
+  },
+  {
+    "player_id": "5396",
+    "full_name": "Gary John Gilmour",
+    "dob": "1951-06-26",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/5396"
+  },
+  {
+    "player_id": "5732",
+    "full_name": "Alan George Hurst",
+    "dob": "1950-07-15",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/5732"
+  },
+  {
+    "player_id": "6460",
+    "full_name": "John Norman Maguire",
+    "dob": "1956-09-15",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/6460"
+  },
+  {
+    "player_id": "8198",
+    "full_name": "Dirk MacDonald Wellham",
+    "dob": "1959-03-13",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/8198"
+  },
+  {
+    "player_id": "8526",
+    "full_name": "Paul John Walter Allott",
+    "dob": "1956-09-14",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/8526"
+  },
+  {
+    "player_id": "9089",
+    "full_name": "Martin Paul Bicknell",
+    "dob": "1969-01-14",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/9089"
+  },
+  {
+    "player_id": "12507",
+    "full_name": "Richard Mark Ellison",
+    "dob": "1959-09-21",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/12507"
+  },
+  {
+    "player_id": "14106",
+    "full_name": "Frank Charles Hayes",
+    "dob": "1946-12-06",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/14106"
+  },
+  {
+    "player_id": "15461",
+    "full_name": "Robin David Jackman",
+    "dob": "1945-08-13",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/15461"
+  },
+  {
+    "player_id": "15485",
+    "full_name": "Paul William Jarvis",
+    "dob": "1965-06-29",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/15485"
+  },
+  {
+    "player_id": "15522",
+    "full_name": "Richard Leonard Johnson",
+    "dob": "1974-12-29",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/15522"
+  },
+  {
+    "player_id": "16951",
+    "full_name": "Matthew Peter Maynard",
+    "dob": "1966-03-21",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/16951"
+  },
+  {
+    "player_id": "17119",
+    "full_name": "Martyn Douglas Moxon",
+    "dob": "1960-05-04",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/17119"
+  },
+  {
+    "player_id": "21466",
+    "full_name": "Christopher James Tavar\u00e9",
+    "dob": "1954-10-27",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Top-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/21466"
+  },
+  {
+    "player_id": "25635",
+    "full_name": "Clayton Benjamin Lambert",
+    "dob": "1962-02-10",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/25635"
+  },
+  {
+    "player_id": "30030",
+    "full_name": "Aashish Rakesh Kapoor",
+    "dob": "1971-03-25",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/30030"
+  },
+  {
+    "player_id": "33952",
+    "full_name": "Gopal Sharma",
+    "dob": "1960-08-03",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/33952"
+  },
+  {
+    "player_id": "34074",
+    "full_name": "Laxman Sivaramakrishnan",
+    "dob": "1965-12-31",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/34074"
+  },
+  {
+    "player_id": "35939",
+    "full_name": "Atul Satish Wassan",
+    "dob": "1968-03-23",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/35939"
+  },
+  {
+    "player_id": "36294",
+    "full_name": "Matthew David Bell",
+    "dob": "1977-02-25",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/36294"
+  },
+  {
+    "player_id": "36308",
+    "full_name": "Grant Eric Bradburn",
+    "dob": "1966-05-26",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/36308"
+  },
+  {
+    "player_id": "36825",
+    "full_name": "Heath Te-Ihi-O-Te-Rangi Davis",
+    "dob": "1971-11-30",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/36825"
+  },
+  {
+    "player_id": "36952",
+    "full_name": "Graham Neil Edwards",
+    "dob": "1955-05-27",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/36952"
+  },
+  {
+    "player_id": "37103",
+    "full_name": "Evan John Gray",
+    "dob": "1954-11-18",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/37103"
+  },
+  {
+    "player_id": "37235",
+    "full_name": "Blair Robert Hartland",
+    "dob": "1966-10-22",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/37235"
+  },
+  {
+    "player_id": "37703",
+    "full_name": "Paul Ernest McEwan",
+    "dob": "1953-12-19",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/37703"
+  },
+  {
+    "player_id": "38404",
+    "full_name": "Derek Alexander Stirling",
+    "dob": "1961-10-05",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/38404"
+  },
+  {
+    "player_id": "38409",
+    "full_name": "Murphy Logo Su'a",
+    "dob": "1966-11-07",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/38409"
+  },
+  {
+    "player_id": "38707",
+    "full_name": "Robert Howard Vance",
+    "dob": "1955-03-31",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/38707"
+  },
+  {
+    "player_id": "38708",
+    "full_name": "Justin Thomas Caldwell Vaughan",
+    "dob": "1967-08-30",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/38708"
+  },
+  {
+    "player_id": "38737",
+    "full_name": "Brooke Graeme Keith Walker",
+    "dob": "1977-03-25",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/38737"
+  },
+  {
+    "player_id": "38966",
+    "full_name": "Aamer Nazir",
+    "dob": "1971-01-02",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/38966"
+  },
+  {
+    "player_id": "40378",
+    "full_name": "Hasan Raza",
+    "dob": "1982-03-11",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/40378"
+  },
+  {
+    "player_id": "40872",
+    "full_name": "Jalal-ud-Din",
+    "dob": "1959-06-12",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/40872"
+  },
+  {
+    "player_id": "41299",
+    "full_name": "Mohammad Zahid",
+    "dob": "1976-08-02",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/41299"
+  },
+  {
+    "player_id": "43539",
+    "full_name": "Syed Wajahatullah Wasti",
+    "dob": "1974-11-11",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/43539"
+  },
+  {
+    "player_id": "46790",
+    "full_name": "Meyrick Wayne Pringle",
+    "dob": "1966-06-22",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/46790"
+  },
+  {
+    "player_id": "48112",
+    "full_name": "Monde Zondeki",
+    "dob": "1982-07-25",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/48112"
+  },
+  {
+    "player_id": "49554",
+    "full_name": "Dulip Kapila Liyanage",
+    "dob": "1972-06-06",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/49554"
+  },
+  {
+    "player_id": "50247",
+    "full_name": "Sanjeeva Ranatunga",
+    "dob": "1969-04-25",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/50247"
+  },
+  {
+    "player_id": "50860",
+    "full_name": "Kaushalya Weeraratne",
+    "dob": "1981-01-29",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/50860"
+  },
+  {
+    "player_id": "51300",
+    "full_name": "David Eddison Bernard",
+    "dob": "1981-07-19",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/51300"
+  },
+  {
+    "player_id": "51477",
+    "full_name": "Sylvester Theophilus Clarke",
+    "dob": "1954-12-11",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/51477"
+  },
+  {
+    "player_id": "51905",
+    "full_name": "Adrian Frank Gordon Griffith",
+    "dob": "1971-11-19",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/51905"
+  },
+  {
+    "player_id": "52206",
+    "full_name": "Sylvester Cleofoster Joseph",
+    "dob": "1978-09-05",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/52206"
+  },
+  {
+    "player_id": "52490",
+    "full_name": "Dave Mohammed",
+    "dob": "1979-10-08",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm wrist-spin",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/52490"
+  },
+  {
+    "player_id": "52670",
+    "full_name": "Derick Recaldo Parry",
+    "dob": "1954-12-22",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/52670"
+  },
+  {
+    "player_id": "52675",
+    "full_name": "Nehemiah Odolphus Perry",
+    "dob": "1968-06-16",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/52675"
+  },
+  {
+    "player_id": "55267",
+    "full_name": "Eddo Andr\u00e9 Brandes",
+    "dob": "1963-03-05",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/55267"
+  },
+  {
+    "player_id": "55419",
+    "full_name": "Gavin Mackie Ewing",
+    "dob": "1981-01-21",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/55419"
+  },
+  {
+    "player_id": "55582",
+    "full_name": "Everton Zvikomborero Matambanadzo",
+    "dob": "1976-04-13",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/55582"
+  },
+  {
+    "player_id": "55782",
+    "full_name": "Gregory Mark Strydom",
+    "dob": "1984-03-26",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/55782"
+  },
+  {
+    "player_id": "55970",
+    "full_name": "Mehrab Hossain",
+    "dob": "1978-09-22",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/55970"
+  },
+  {
+    "player_id": "55986",
+    "full_name": "Mohammad Sharif",
+    "dob": "1985-12-12",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/55986"
+  },
+  {
+    "player_id": "56104",
+    "full_name": "Mohammad Shahriar Hossain",
+    "dob": "1976-06-01",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/56104"
+  },
+  {
+    "player_id": "56180",
+    "full_name": "Talha Jubair",
+    "dob": "1985-12-10",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/56180"
+  },
+  {
+    "player_id": "230551",
+    "full_name": "Gajanand Singh",
+    "dob": "1987-10-03",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Middle-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/230551"
+  },
+  {
+    "player_id": "233258",
+    "full_name": "Nisarg Ketankumar Patel",
+    "dob": "1988-04-20",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/233258"
+  },
+  {
+    "player_id": "315035",
+    "full_name": "Sybrand Abraham Engelbrecht",
+    "dob": "1988-09-15",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/315035"
+  },
+  {
+    "player_id": "315232",
+    "full_name": "Asif Khan",
+    "dob": "1990-02-15",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/315232"
+  },
+  {
+    "player_id": "334621",
+    "full_name": "Shadley Claude van Schalkwyk",
+    "dob": "1988-08-05",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/334621"
+  },
+  {
+    "player_id": "379890",
+    "full_name": "Chad Jayson Bowes",
+    "dob": "1992-10-19",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Top-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/379890"
+  },
+  {
+    "player_id": "385938",
+    "full_name": "Kaleem Sana Rehman",
+    "dob": "1994-01-01",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/385938"
+  },
+  {
+    "player_id": "422847",
+    "full_name": "Harmeet Singh Baddhan",
+    "dob": "1992-09-07",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Bowling allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/422847"
+  },
+  {
+    "player_id": "446690",
+    "full_name": "Pargat Singh",
+    "dob": "1992-04-13",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/446690"
+  },
+  {
+    "player_id": "450075",
+    "full_name": "Kesrick Omari Kenal Williams",
+    "dob": "1990-01-17",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/450075"
+  },
+  {
+    "player_id": "485379",
+    "full_name": "Andries Gustav Stephanus Gous",
+    "dob": "1993-11-24",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/485379"
+  },
+  {
+    "player_id": "526462",
+    "full_name": "Jonty William Jenner",
+    "dob": "1997-12-04",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/526462"
+  },
+  {
+    "player_id": "526481",
+    "full_name": "M Saqib Zulfiqar",
+    "dob": "1997-03-28",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak",
+    "playing_role": "Bowling allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/526481"
+  },
+  {
+    "player_id": "574638",
+    "full_name": "Malan Binneman Kruger",
+    "dob": "1995-04-12",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/574638"
+  },
+  {
+    "player_id": "624813",
+    "full_name": "Khalid Kail",
+    "dob": "1996-10-13",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Middle-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/624813"
+  },
+  {
+    "player_id": "681801",
+    "full_name": "Shakeel Ahmed",
+    "dob": "1988-02-04",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/681801"
+  },
+  {
+    "player_id": "824159",
+    "full_name": "Tayyab Tahir",
+    "dob": "1993-07-26",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "playing_role": "Middle-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/824159"
+  },
+  {
+    "player_id": "914503",
+    "full_name": "Harsh Thaker",
+    "dob": "1997-10-24",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/914503"
+  },
+  {
+    "player_id": "959771",
+    "full_name": "Nathan Gregory Smith",
+    "dob": "1998-07-15",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Bowling allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/959771"
+  },
+  {
+    "player_id": "1000791",
+    "full_name": "Bradley James Currie",
+    "dob": "1998-11-08",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm medium",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1000791"
+  },
+  {
+    "player_id": "1038205",
+    "full_name": "Trevor Wesley Gwandu",
+    "dob": "1998-02-24",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1038205"
+  },
+  {
+    "player_id": "1041679",
+    "full_name": "Nosthusha Pradeep Kenjige",
+    "dob": "1991-03-02",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1041679"
+  },
+  {
+    "player_id": "1058938",
+    "full_name": "Wasim Ali",
+    "dob": "1998-12-07",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Batting allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1058938"
+  },
+  {
+    "player_id": "1062334",
+    "full_name": "Matthew Spoors",
+    "dob": "1999-05-06",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "playing_role": "Batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1062334"
+  },
+  {
+    "player_id": "1062706",
+    "full_name": "Harrison Lee Carlyon",
+    "dob": "2001-01-23",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1062706"
+  },
+  {
+    "player_id": "1071484",
+    "full_name": "Brian John Bennett",
+    "dob": "2003-11-10",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1071484"
+  },
+  {
+    "player_id": "1071504",
+    "full_name": "Michael Levitt",
+    "dob": "2003-06-19",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Top-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1071504"
+  },
+  {
+    "player_id": "1112212",
+    "full_name": "Benjamin Ward",
+    "dob": "1998-11-27",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1112212"
+  },
+  {
+    "player_id": "1112220",
+    "full_name": "Julius Thomas Silvester Sumerauer",
+    "dob": "2001-02-12",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1112220"
+  },
+  {
+    "player_id": "1126694",
+    "full_name": "Darius Del Piero D'Silva",
+    "dob": "1998-04-16",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1126694"
+  },
+  {
+    "player_id": "1139028",
+    "full_name": "Karima Gore",
+    "dob": "1998-06-25",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1139028"
+  },
+  {
+    "player_id": "1161022",
+    "full_name": "Sundeep Jora",
+    "dob": "2001-10-20",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Middle-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1161022"
+  },
+  {
+    "player_id": "1181708",
+    "full_name": "Nicholas Anthony Greenwood",
+    "dob": "1999-10-21",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1181708"
+  },
+  {
+    "player_id": "1186229",
+    "full_name": "Hila George Vaieke Vare",
+    "dob": "2001-08-10",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "",
+    "playing_role": "Batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1186229"
+  },
+  {
+    "player_id": "1193293",
+    "full_name": "Akhil Kumar",
+    "dob": "2001-11-20",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1193293"
+  },
+  {
+    "player_id": "1193310",
+    "full_name": "Saiteja Reddy Mukkamalla",
+    "dob": "2004-04-09",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Opening batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1193310"
+  },
+  {
+    "player_id": "1195667",
+    "full_name": "Joshua Anthony David Lawrenson",
+    "dob": "2002-11-20",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Unknown",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1195667"
+  },
+  {
+    "player_id": "1195670",
+    "full_name": "Kyle Klein",
+    "dob": "2001-07-03",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1195670"
+  },
+  {
+    "player_id": "1199434",
+    "full_name": "Nangeyalia Kharote",
+    "dob": "2004-04-25",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1199434"
+  },
+  {
+    "player_id": "1202098",
+    "full_name": "Zakary Glen Foulkes",
+    "dob": "2002-06-05",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Bowling allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1202098"
+  },
+  {
+    "player_id": "1206190",
+    "full_name": "Shreyas Movva",
+    "dob": "1993-09-04",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1206190"
+  },
+  {
+    "player_id": "1210511",
+    "full_name": "Nahid Rana",
+    "dob": "2002-10-02",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1210511"
+  },
+  {
+    "player_id": "1211825",
+    "full_name": "William Peter O'Rourke",
+    "dob": "2001-08-06",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1211825"
+  },
+  {
+    "player_id": "1212481",
+    "full_name": "Mohammad Aadil Alam",
+    "dob": "2003-10-18",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1212481"
+  },
+  {
+    "player_id": "1212829",
+    "full_name": "Ali Aamer Naseer",
+    "dob": "2004-03-09",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1212829"
+  },
+  {
+    "player_id": "1229251",
+    "full_name": "Dilpreet Singh Bajwa",
+    "dob": "2003-01-26",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1229251"
+  },
+  {
+    "player_id": "1243738",
+    "full_name": "Mitchell James Hay",
+    "dob": "2000-08-20",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1243738"
+  },
+  {
+    "player_id": "1253822",
+    "full_name": "Gulshan Kumar Jha",
+    "dob": "2006-02-17",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1253822"
+  },
+  {
+    "player_id": "1256189",
+    "full_name": "Vishnu Sukumaran",
+    "dob": "1990-12-31",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Top-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1256189"
+  },
+  {
+    "player_id": "1263361",
+    "full_name": "Matthew James Humphreys",
+    "dob": "2002-09-28",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1263361"
+  },
+  {
+    "player_id": "1266476",
+    "full_name": "Charlie Tear",
+    "dob": "2004-06-12",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1266476"
+  },
+  {
+    "player_id": "1274487",
+    "full_name": "Zach Benjamin Lion-Cachet",
+    "dob": "2003-12-15",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Bowling allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1274487"
+  },
+  {
+    "player_id": "1277627",
+    "full_name": "Sanjay Prasad Krishnamurthi",
+    "dob": "2003-06-02",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1277627"
+  },
+  {
+    "player_id": "1278263",
+    "full_name": "Jack Jarvis",
+    "dob": "2003-05-29",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1278263"
+  },
+  {
+    "player_id": "1282006",
+    "full_name": "Samay Shrivastava",
+    "dob": "1991-03-13",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1282006"
+  },
+  {
+    "player_id": "1294144",
+    "full_name": "Dhruv Parashar",
+    "dob": "2004-12-20",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Allrounder",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1294144"
+  },
+  {
+    "player_id": "1323683",
+    "full_name": "Aaron Johnson",
+    "dob": "1991-03-16",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1323683"
+  },
+  {
+    "player_id": "1356971",
+    "full_name": "Shamar Joseph",
+    "dob": "1999-08-31",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1356971"
+  },
+  {
+    "player_id": "1388460",
+    "full_name": "Rahul Chopra",
+    "dob": "1994-11-07",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1388460"
+  },
+  {
+    "player_id": "1402600",
+    "full_name": "Pratik Shrikant Athavale",
+    "dob": "1997-04-20",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1402600"
+  },
+  {
+    "player_id": "1411891",
+    "full_name": "Tanish Suri",
+    "dob": "2005-06-04",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1411891"
+  },
+  {
+    "player_id": "1419054",
+    "full_name": "Yuvraj Singh Samra",
+    "dob": "2006-09-29",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "playing_role": "Opening batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1419054"
+  },
+  {
+    "player_id": "1453642",
+    "full_name": "Hammad Mirza",
+    "dob": "1998-05-12",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1453642"
+  },
+  {
+    "player_id": "1457849",
+    "full_name": "Vinayak Shukla",
+    "dob": "1994-06-18",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "playing_role": "Wicketkeeper batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1457849"
+  },
+  {
+    "player_id": "1457977",
+    "full_name": "Ashish Rambhai Odedara",
+    "dob": "1991-10-24",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Middle-order batter",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1457977"
+  },
+  {
+    "player_id": "1460485",
+    "full_name": "Simranjeet Singh",
+    "dob": "1989-11-13",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "playing_role": "Bowler",
+    "source": "http://core.espnuk.org/v2/sports/cricket/athletes/1460485"
+  }
+]

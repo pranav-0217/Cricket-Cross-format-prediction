@@ -1,0 +1,1318 @@
+player_name,cricbuzz_id,batting_style,bowling_style,playing_role,born_year
+A Athanaze,13352,Left Handed Bat,Right-arm offbreak,Batsman,1998.0
+A Bagai,676,Right Handed Bat,,WK-Batsman,1982.0
+A Balbirnie,6710,Right Handed Bat,Right-arm offbreak,Batsman,1990.0
+A Dananjaya,8483,Left Handed Bat,Right-arm offbreak,Bowler,1993.0
+A Dutt,19532,Right Handed Bat,Right-arm offbreak,Bowler,2003.0
+A Flintoff,61,Right Handed Bat,Right-arm fast,Bowling Allrounder,1977.0
+A Flower,3406,Left Handed Bat,Right-arm offbreak,Batsman,1968.0
+A Jadeja,3898,Right Handed Bat,Right-arm medium,Batsman,1971.0
+A Kumble,98,Right Handed Bat,Right-arm legbreak,Bowler,1970.0
+A Mishra,1454,Right Handed Bat,Right-arm legbreak,Bowler,1982.0
+A Nao,8475,Right Handed Bat,Right-arm medium,Bowler,1993.0
+A Nehra,269,Right Handed Bat,Left-arm fast-medium,Bowler,1979.0
+A Nel,221,Right Handed Bat,Right-arm fast-medium,Bowler,1977.0
+A Nortje,11427,Right Handed Bat,Right-arm fast,Bowler,1993.0
+A Sharafu,14227,Right Handed Bat,Right-arm medium,Batting Allrounder,2003.0
+A Sharma,12086,Left Handed Bat,Left-arm orthodox,Batting Allrounder,2000.0
+A Symonds,39,Right Handed Bat,Right-arm medium,Batting Allrounder,1975.0
+A Vala,10120,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1987.0
+A Zampa,8642,Right Handed Bat,Right-arm legbreak,Bowler,1992.0
+AA Donald,10026,Right Handed Bat,Right-arm offbreak,WK-Batsman,1996.0
+AA Obanda,704,Right Handed Bat,,Batsman,1987.0
+AB Agarkar,146,Right Handed Bat,Right-arm fast-medium,Bowler,1977.0
+AB Barath,1911,Right Handed Bat,Right-arm offbreak,Batsman,1990.0
+AB de Villiers,370,Right Handed Bat,Right-arm medium,WK-Batsman,1984.0
+AC Agar,8508,Left Handed Bat,Left-arm orthodox,Bowler,1993.0
+AC Botha,617,Left Handed Bat,Right-arm medium,Bowling Allrounder,1975.0
+AC Cummins,683,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1966.0
+AC Evans,3053,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1989.0
+AC Gilchrist,36,Left Handed Bat,Right-arm offbreak,WK-Batsman,1971.0
+AC Hudson,4583,Right Handed Bat,Right-arm medium,Batsman,1965.0
+AC Parore,4070,Right Handed Bat,,Batsman,1971.0
+AC Voges,605,Right Handed Bat,Left-arm orthodox,Batsman,1979.0
+AD Hales,6734,Right Handed Bat,Right-arm medium,Batsman,1989.0
+AD Mathews,1629,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1987.0
+AD Mullally,5424,Right Handed Bat,Left-arm fast-medium,Batsman,1969.0
+AD Poynter,1402,Right Handed Bat,Right-arm offbreak,Batsman,1987.0
+AD Russell,7736,Right Handed Bat,Right-arm fast,Bowling Allrounder,1988.0
+ADR Campbell,3408,Left Handed Bat,Right-arm offbreak,Batsman,1972.0
+ADS Fletcher,1394,Right Handed Bat,,WK-Batsman,1987.0
+AF Giles,164,Right Handed Bat,Left-arm orthodox,Bowler,1973.0
+AF Milne,7625,Right Handed Bat,Right-arm fast,Bowler,1992.0
+AFG Griffith,4227,Left Handed Bat,Right-arm medium,Batsman,1971.0
+AG Prince,371,Left Handed Bat,Right-arm offbreak,Batsman,1977.0
+AGS Gous,11959,Right Handed Bat,,WK-Batsman,1993.0
+AH Jones,14730,Right Handed Bat,Right-arm legbreak,Batsman,1994.0
+AJ Bichel,4752,Right Handed Bat,Right-arm fast-medium,Batsman,1970.0
+AJ Finch,13015,Right Handed Bat,Right-arm medium,Bowler,2000.0
+AJ Hall,316,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1975.0
+AJ Hosein,8435,Left Handed Bat,Left-arm orthodox,Bowler,1993.0
+AJ Lamb,5341,Right Handed Bat,Right-arm medium,Batsman,1954.0
+AJ Redmond,1320,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1979.0
+AJ Stewart,5390,Right Handed Bat,Right-arm medium,Batsman,1963.0
+AJ Strauss,167,Left Handed Bat,Left-arm medium,Batsman,1977.0
+AJ Turner,8506,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1993.0
+AJ Tye,9617,Right Handed Bat,Right-arm fast-medium,Bowler,1986.0
+AK Markram,9582,Right Handed Bat,Right-arm offbreak,Batsman,1994.0
+AK Sah,12112,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1998.0
+AL Phehlukwayo,9601,Left Handed Bat,Right-arm medium,Bowling Allrounder,1996.0
+AM Bacher,4607,Right Handed Bat,Right-arm medium,Batsman,1973.0
+AM Blignaut,3442,Left Handed Bat,Right-arm fast-medium,Batting Allrounder,1978.0
+AM Ellis,8215,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1982.0
+AM Fernando,10938,Right Handed Bat,Right-arm fast-medium,Bowler,1997.0
+AM Hardie,13170,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1999.0
+AM Rahane,1447,Right Handed Bat,Right-arm medium,Batsman,1988.0
+AM Samad,1425621,Right Handed Bat,Left-arm orthodox,Bowler,1994.0
+AM Tribe,21091,Right Handed Bat,Right-arm offbreak,Batsman,2004.0
+AN Cook,488,Left Handed Bat,Right-arm medium,Batsman,1984.0
+AN Kervezee,634,Right Handed Bat,Right-arm medium,Batsman,1989.0
+AN Petersen,585,Right Handed Bat,Right-arm offbreak,Batsman,1980.0
+AR Caddick,5406,Right Handed Bat,Right-arm fast-medium,Batsman,1968.0
+AR Cusack,735,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1980.0
+AR Kapoor,3905,Right Handed Bat,Right-arm offbreak,Batsman,1971.0
+AR McBrine,9667,Left Handed Bat,Right-arm offbreak,Bowling Allrounder,1993.0
+AR Nurse,7922,Right Handed Bat,Right-arm offbreak,Bowler,1988.0
+AR Patel,8808,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1994.0
+AR White,627,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1980.0
+AR Whittall,3431,Right Handed Bat,Right-arm offbreak,Batsman,1973.0
+ARC Fraser,5384,Right Handed Bat,Right-arm fast-medium,Batsman,1965.0
+AS Hansra,7676,Right Handed Bat,Right-arm offbreak,Batsman,1984.0
+AS Joseph,11220,Right Handed Bat,Right-arm fast,Bowler,1996.0
+AT Carey,9200,Left Handed Bat,,WK-Batsman,1991.0
+AT Nidamanuru,13336,Right Handed Bat,Right-arm offbreak,Batsman,1994.0
+AT Rayudu,6311,Right Handed Bat,Right-arm offbreak,Batsman,1985.0
+AU Rashid,1742,Right Handed Bat,Right-arm legbreak,Bowler,1988.0
+Aamer Malik,15615,Right Handed Bat,Right-arm medium,Bowler,1982.0
+Aamer Sohail,3715,Left Handed Bat,Left-arm orthodox,Batsman,1966.0
+Aamir Kaleem,11269,Right Handed Bat,Right-arm fast-medium,Batsman,1985.0
+Aaqib Javed,1366,Right Handed Bat,Right-arm medium,Bowling Allrounder,1980.0
+Aarif Sheikh,22886,Left Handed Bat,Left-arm orthodox,Bowler,2003.0
+Aaron Jones,14730,Right Handed Bat,Right-arm legbreak,Batsman,1994.0
+Aasif Sheikh,22886,Left Handed Bat,Left-arm orthodox,Bowler,2003.0
+Aayan Afzal Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Abdul Razzaq,78,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1979.0
+Abdullah Shafique,12139,Right Handed Bat,Right-arm offbreak,Batsman,1999.0
+Abdur Razzak,127,Left Handed Bat,Left-arm orthodox,Bowler,1982.0
+Abdur Rehman,524,Left Handed Bat,Left-arm orthodox,Bowler,1980.0
+Abid Ali,9565,Right Handed Bat,Right-arm medium,Batsman,1991.0
+Abrar Ahmed,14740,Right Handed Bat,,WK-Batsman,1991.0
+Afif Hossain,8247,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+Afsar Zazai,8278,Right Handed Bat,,WK-Batsman,1993.0
+Aftab Ahmed,14740,Right Handed Bat,,WK-Batsman,1991.0
+Aftab Alam,6476,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+Ahmed Raza,9828,Right Handed Bat,Left-arm orthodox,Bowling Allrounder,1988.0
+Ahmed Shehzad,1787,Right Handed Bat,Right-arm legbreak,Batsman,1991.0
+Aizaz Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Akhil Kumar,14438,Right Handed Bat,Right-arm offbreak,Batsman,1997.0
+Akram Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Akram Raza,9828,Right Handed Bat,Left-arm orthodox,Bowling Allrounder,1988.0
+Al Sahariar,3165,Right Handed Bat,Right-arm legbreak,Batsman,1978.0
+Al-Amin Hossain,8247,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+Ali Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Alok Kapali,119,Right Handed Bat,Right-arm legbreak,Batsman,1984.0
+Aminul Islam,3136,Right Handed Bat,Right-arm offbreak,Batsman,1968.0
+Amir Hamza,8031,Right Handed Bat,Left-arm orthodox,Bowler,1991.0
+Amjad Ali,9565,Right Handed Bat,Right-arm medium,Batsman,1991.0
+Amjad Javed,1366,Right Handed Bat,Right-arm medium,Bowling Allrounder,1980.0
+Anamul Haque,8225,Right Handed Bat,Right-arm medium,Batting Allrounder,1992.0
+Anshuman Rath,10035,Left Handed Bat,Left-arm orthodox,WK-Batsman,1997.0
+Anwar Ali,9565,Right Handed Bat,Right-arm medium,Batsman,1991.0
+Aqib Ilyas,12235,Right Handed Bat,Right-arm offbreak,Batsman,1992.0
+Arafat Sunny,8243,Left Handed Bat,Left-arm orthodox,Bowler,1986.0
+Arshad Ayub,3875,Right Handed Bat,Right-arm offbreak,Batsman,1958.0
+Arshad Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Arshdeep Singh,11032,Right Handed Bat,Right-arm offbreak,Batsman,1994.0
+Asad Shafiq,6481,Right Handed Bat,Right-arm legbreak,Batsman,1986.0
+Asghar Afghan,3004,Right Handed Bat,Right-arm fast-medium,Batsman,1987.0
+Ashfaq Ahmed,14740,Right Handed Bat,,WK-Batsman,1991.0
+Asif Ali,9565,Right Handed Bat,Right-arm medium,Batsman,1991.0
+Asif Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Asif Mujtaba,3694,Left Handed Bat,Left-arm orthodox,Batsman,1967.0
+Ayaan Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Azam Khan,9975,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1993.0
+Azhar Ali,9565,Right Handed Bat,Right-arm medium,Batsman,1991.0
+Azhar Mahmood,25630,Right Handed Bat,Right-arm offbreak,Bowler,2002.0
+Azmatullah Omarzai,13214,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,2000.0
+B Bhandari,9961,Right Handed Bat,Right-arm medium,WK-Batsman,1990.0
+B Evans,19592,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1997.0
+B Kumar,46212,Left Handed Bat,,Batsman,2002.0
+B Lee,42,Right Handed Bat,Right-arm fast,Bowler,1976.0
+B Mavuta,11224,Right Handed Bat,Right-arm legbreak,Bowler,1997.0
+B Muzarabani,13316,Right Handed Bat,Right-arm fast-medium,Bowler,1996.0
+B Zuiderent,629,Right Handed Bat,Right-arm medium,Batsman,1977.0
+BA Carse,11436,Right Handed Bat,Right-arm fast,Bowler,1995.0
+BA King,9791,Right Handed Bat,,Batsman,1994.0
+BA Murphy,3444,Right Handed Bat,Right-arm legbreak,Batsman,1976.0
+BA Reid,4711,Left Handed Bat,Left-arm fast-medium,Batsman,1963.0
+BA Stokes,6557,Left Handed Bat,Right-arm fast-medium,Batting Allrounder,1991.0
+BA Young,4065,Right Handed Bat,,Batsman,1964.0
+BB Chari,10168,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1992.0
+BB McCullum,201,Right Handed Bat,,WK-Batsman,1981.0
+BC Broad,554,Left Handed Bat,Right-arm fast-medium,Bowler,1986.0
+BC Fortuin,10676,Right Handed Bat,Left-arm orthodox,Bowler,1994.0
+BC Lara,240,Left Handed Bat,Right-arm legbreak,Batsman,1969.0
+BC Strang,3426,Right Handed Bat,Left-arm medium,Batsman,1972.0
+BD Glover,15121,Right Handed Bat,Right-arm fast,Bowler,1997.0
+BFW de Leede,13273,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1999.0
+BGK Walker,4108,Right Handed Bat,Right-arm legbreak,Batsman,1977.0
+BJ Bennett,7678,Left Handed Bat,Right-arm fast-medium,Bowler,1987.0
+BJ Currie,15804,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,2001.0
+BJ Haddin,159,Right Handed Bat,,WK-Batsman,1977.0
+BJ Hodge,283,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1974.0
+BJ McCarthy,10451,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+BJ Watling,1459,Right Handed Bat,,WK-Batsman,1985.0
+BM Duckett,8502,Left Handed Bat,Right-arm offbreak,Batsman,1994.0
+BM Laird,4680,Right Handed Bat,,Batsman,1950.0
+BM McMillan,4593,Right Handed Bat,Right-arm fast-medium,Batsman,1963.0
+BM Scholtz,10769,Right Handed Bat,Left-arm orthodox,Bowler,1990.0
+BN Cooper,9532,Left Handed Bat,Right-arm medium,Bowling Allrounder,1992.0
+BOP Fernando,9498,Right Handed Bat,Left-arm medium,Bowler,1995.0
+BP Julian,4734,Right Handed Bat,Left-arm fast-medium,Batsman,1970.0
+BP Nash,1418,Left Handed Bat,Left-arm medium,Batsman,1977.0
+BP Patterson,12019,Right Handed Bat,Right-arm fast-medium,WK-Batsman,1994.0
+BR Hartland,4071,Right Handed Bat,,Batsman,1966.0
+BR McDermott,9453,Right Handed Bat,Right-arm offbreak,WK-Batsman,1994.0
+BRM Taylor,180,Right Handed Bat,Right-arm offbreak,WK-Batsman,1986.0
+BTJ Wheal,10389,Right Handed Bat,Right-arm fast-medium,Bowler,1996.0
+BV Vitori,8020,Left Handed Bat,Left-arm fast-medium,Bowler,1990.0
+BW Hilfenhaus,561,Right Handed Bat,Right-arm fast-medium,Bowler,1983.0
+Babar Azam,8359,Right Handed Bat,Right-arm offbreak,Batsman,1994.0
+Babar Hayat,9979,Right Handed Bat,Right-arm medium,Batsman,1992.0
+Basil Hameed,15842,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1992.0
+Basit Ali,3724,Right Handed Bat,Right-arm offbreak,Batsman,1970.0
+Bilal Khan,10824,Left Handed Bat,Left-arm fast-medium,Bowler,1987.0
+C Bosch,9576,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1994.0
+C Campher,18143,Right Handed Bat,Right-arm medium,Bowling Allrounder,1999.0
+C Carter,10793,Right Handed Bat,,WK-Batsman,1997.0
+C Green,10162,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1993.0
+C Karunaratne,9500,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1996.0
+C Kieswetter,2261,Right Handed Bat,,WK-Batsman,1987.0
+C Madande,23761,Right Handed Bat,,WK-Batsman,2000.0
+C Munro,8085,Left Handed Bat,Right-arm medium,Batsman,1987.0
+C Overton,8511,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1994.0
+C Pringle,4059,Right Handed Bat,Right-arm fast-medium,Batsman,1968.0
+C White,282,Right Handed Bat,Right-arm legbreak,Batsman,1983.0
+C Zhuwao,1591,Left Handed Bat,Right-arm legbreak,Batting Allrounder,1984.0
+C de Grandhomme,8081,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1986.0
+CA Best,4197,Right Handed Bat,,Batsman,1959.0
+CA Ingram,7664,Left Handed Bat,Right-arm legbreak,Batsman,1985.0
+CA Pujara,1448,Right Handed Bat,Right-arm legbreak,Batsman,1988.0
+CA Soper,8477,Right Handed Bat,Right-arm medium,Bowler,1991.0
+CA Walsh,4194,Right Handed Bat,Right-arm fast,Bowler,1962.0
+CA Young,6575,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+CAK Walton,1988,Right Handed Bat,,WK-Batsman,1985.0
+CB Lambert,3379,Left Handed Bat,Right-arm offbreak,Batsman,1962.0
+CB Mpofu,428,Right Handed Bat,Right-arm medium,Bowler,1985.0
+CB Sole,9925,Right Handed Bat,Right-arm fast-medium,Bowler,1994.0
+CB Wishart,3430,Right Handed Bat,Right-arm offbreak,Batsman,1974.0
+CBRLS Kumara,7876,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1992.0
+CC Lewis,5391,Right Handed Bat,Right-arm fast-medium,Batsman,1968.0
+CD Collymore,245,Right Handed Bat,Right-arm fast-medium,Bowler,1977.0
+CD Cumming,366,Right Handed Bat,,Batsman,1975.0
+CD McMillan,57,Right Handed Bat,Right-arm medium,Batsman,1976.0
+CD Wallace,8255,Right Handed Bat,,WK-Batsman,1990.0
+CE Cuffy,4214,Right Handed Bat,Right-arm fast,Batsman,1970.0
+CE McConchie,10697,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1992.0
+CEL Ambrose,4202,Left Handed Bat,Right-arm fast,Batsman,1963.0
+CG Rackemann,4693,Right Handed Bat,Right-arm fast,Batsman,1960.0
+CG Williams,7970,Right Handed Bat,Right-arm medium,Batsman,1984.0
+CH Gayle,247,Left Handed Bat,Right-arm offbreak,Batsman,1979.0
+CH Morris,11556,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+CJ Anderson,8982,Left Handed Bat,Left-arm fast-medium,Batting Allrounder,1990.0
+CJ Bowes,8516,Right Handed Bat,Right-arm medium,Batsman,1992.0
+CJ Chibhabha,436,Right Handed Bat,Right-arm medium,Batting Allrounder,1986.0
+CJ Jordan,6532,Right Handed Bat,Right-arm fast-medium,Bowler,1988.0
+CJ McDermott,4704,Right Handed Bat,Right-arm fast,Batsman,1965.0
+CJ Tavare,5333,Right Handed Bat,Right-arm offbreak,Batsman,1954.0
+CJA Amini,10428,Left Handed Bat,Right-arm legbreak,Batting Allrounder,1992.0
+CJO Smith,10710,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1985.0
+CK Coventry,3460,Right Handed Bat,Right-arm legbreak,Batsman,1983.0
+CK Kapugedera,491,Right Handed Bat,Right-arm medium,Batsman,1987.0
+CL Cairns,52,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1970.0
+CL Hooper,4199,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1966.0
+CL White,282,Right Handed Bat,Right-arm legbreak,Batsman,1983.0
+CM Spearman,4087,Right Handed Bat,,Batsman,1972.0
+CMW Read,548,Right Handed Bat,,WK-Batsman,1978.0
+CN Ackermann,9725,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+CN Evans,3412,Right Handed Bat,Right-arm medium,Batsman,1969.0
+CN Greaves,14541,Right Handed Bat,Right-arm legbreak,Bowler,1990.0
+CO Browne,4222,Right Handed Bat,,Batsman,1970.0
+CO Obuya,550,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1981.0
+CP Rizwan,14554,Right Handed Bat,Right-arm legbreak,Batsman,1988.0
+CPH Ramanayake,3542,Right Handed Bat,Right-arm fast-medium,Batsman,1965.0
+CPL Connolly,4626,Right Handed Bat,Right-arm fast-medium,Batsman,1939.0
+CR Brathwaite,8110,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1988.0
+CR Ervine,6334,Left Handed Bat,Right-arm offbreak,Batsman,1985.0
+CR Matthews,4596,Right Handed Bat,Right-arm fast-medium,Batsman,1965.0
+CR Woakes,6670,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1989.0
+CS Baugh,536,Right Handed Bat,Right-arm legbreak,WK-Batsman,1982.0
+CS MacLeod,1416,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1988.0
+CS Martin,420,Right Handed Bat,Right-arm fast-medium,Bowler,1974.0
+CS Pandit,3870,Right Handed Bat,,Batsman,1961.0
+CT Mumba,9595,Right Handed Bat,Right-arm fast-medium,Bowler,1995.0
+CT Tremlett,397,Right Handed Bat,Right-arm fast-medium,Bowler,1981.0
+CZ Harris,4062,Left Handed Bat,Right-arm medium,Batsman,1969.0
+Chirag Suri,9829,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+D Bishoo,7633,Left Handed Bat,Right-arm legbreak,Bowler,1985.0
+D Brevis,20538,Right Handed Bat,Right-arm legbreak,Batsman,2003.0
+D Elgar,2239,Left Handed Bat,Left-arm orthodox,Batsman,1987.0
+D Ganga,376,Right Handed Bat,Right-arm offbreak,Batsman,1979.0
+D Gough,63,Right Handed Bat,Right-arm fast-medium,Bowler,1970.0
+D Myers,13415,Right Handed Bat,Right-arm medium,Batsman,2002.0
+D Pretorius,8651,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1989.0
+D Ramdin,399,Right Handed Bat,,WK-Batsman,1985.0
+D Ravu,13129,Right Handed Bat,Right-arm fast-medium,Bowler,1994.0
+D Wiese,8589,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1985.0
+D Williams,4201,Right Handed Bat,Right-arm legbreak,Batsman,1963.0
+D la Cock,19497,Right Handed Bat,Right-arm legbreak,Batting Allrounder,2003.0
+DA Miller,6349,Left Handed Bat,,Batsman,1989.0
+DA Warner,1739,Left Handed Bat,,Batsman,1986.0
+DAJ Bracewell,7622,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+DAS Gunaratne,8419,Left Handed Bat,Left-arm fast-medium,Bowler,1989.0
+DBL Powell,378,Right Handed Bat,Right-arm fast-medium,Bowler,1978.0
+DC Boon,4702,Right Handed Bat,Right-arm offbreak,Batsman,1960.0
+DC Thomas,1990,Right Handed Bat,Right-arm medium,WK-Batsman,1989.0
+DD Ebrahim,3449,Right Handed Bat,Right-arm medium,Batsman,1980.0
+DE Bernard,1907,Right Handed Bat,Right-arm fast-medium,Batsman,1981.0
+DE Bollinger,559,Left Handed Bat,Left-arm fast-medium,Bowler,1981.0
+DE Budge,13738,Right Handed Bat,Right-arm medium,Batsman,1995.0
+DE Malcolm,5386,Right Handed Bat,Right-arm fast,Batsman,1963.0
+DG Brownlie,7814,Right Handed Bat,Right-arm medium,Batsman,1984.0
+DG Cork,5418,Right Handed Bat,Right-arm fast-medium,Batsman,1971.0
+DH Brain,3410,Right Handed Bat,Left-arm fast-medium,Batsman,1964.0
+DI Gower,5326,Left Handed Bat,Right-arm offbreak,Batsman,1957.0
+DJ Bravo,242,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1983.0
+DJ Capel,5373,Right Handed Bat,Right-arm fast-medium,Batsman,1963.0
+DJ Cullinan,4597,Right Handed Bat,Right-arm offbreak,Batsman,1967.0
+DJ Hooda,9427,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1995.0
+DJ Hussey,562,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1977.0
+DJ Malan,6660,Left Handed Bat,Right-arm legbreak,Batsman,1987.0
+DJ Mitchell,6687,Right Handed Bat,Right-arm medium,Batsman,1983.0
+DJ Nash,4069,Right Handed Bat,Right-arm fast-medium,Batsman,1971.0
+DJ Reekers,636,Right Handed Bat,Right-arm medium,Batsman,1973.0
+DJ Richardson,4587,Right Handed Bat,,Batsman,1959.0
+DJ Willey,6592,Left Handed Bat,Left-arm fast-medium,Bowling Allrounder,1990.0
+DJG Sammy,253,Right Handed Bat,Right-arm medium,Batting Allrounder,1983.0
+DJM Short,11050,Left Handed Bat,Left-arm wrist-spin,Batsman,1990.0
+DK Liyanage,3561,Left Handed Bat,Right-arm fast-medium,Batsman,1972.0
+DK Morrison,4049,Right Handed Bat,Right-arm fast-medium,Batsman,1966.0
+DL Chahar,7836,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+DL Houghton,3392,Right Handed Bat,Right-arm offbreak,Batsman,1957.0
+DL Vettori,205,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1979.0
+DLS van Bunge,641,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1982.0
+DM Bravo,242,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1983.0
+DM Jones,4701,Right Handed Bat,Right-arm offbreak,Batsman,1961.0
+DM Wellham,4690,Right Handed Bat,,Batsman,1959.0
+DM de Silva,7872,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+DN Patel,13251,Right Handed Bat,Right-arm medium,Batsman,1997.0
+DN Wellalage,14251,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,2003.0
+DO Obuya,658,Right Handed Bat,,WK-Batsman,1979.0
+DP Conway,9838,Left Handed Bat,Right-arm medium,WK-Batsman,1991.0
+DP Hyatt,7921,Right Handed Bat,Right-arm medium,Batsman,1983.0
+DR Flynn,1061,Left Handed Bat,,Batsman,1985.0
+DR Martyn,136,Right Handed Bat,Right-arm medium,Batsman,1971.0
+DS Airee,12111,,,,
+DS Lehmann,1794,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1970.0
+DS Smith,255,Right Handed Bat,Right-arm medium,Batting Allrounder,1983.0
+DT Christian,6283,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1983.0
+DT Hondo,3452,Right Handed Bat,Right-arm fast-medium,Batsman,1979.0
+DT Tiripano,10066,Right Handed Bat,Right-arm fast-medium,Bowler,1988.0
+DW Fleming,4737,Right Handed Bat,Right-arm fast-medium,Batsman,1970.0
+DW Headley,5431,Right Handed Bat,Right-arm fast-medium,Batsman,1970.0
+DW Randall,5319,Right Handed Bat,Right-arm medium,Batsman,1951.0
+DW Steyn,508,Right Handed Bat,Right-arm fast,Bowler,1983.0
+Danish Kaneria,132,Right Handed Bat,Right-arm legbreak,Bowler,1980.0
+Dawlat Zadran,8029,Right Handed Bat,Right-arm fast-medium,Bowler,1988.0
+E Chigumbura,170,Right Handed Bat,Right-arm medium,Bowling Allrounder,1986.0
+E Lewis,8579,Left Handed Bat,,Batsman,1991.0
+E Otieno,791,Right Handed Bat,Right-arm fast-medium,Bowler,1988.0
+EA Brandes,3400,Right Handed Bat,Right-arm fast-medium,Batsman,1963.0
+EC Joyce,540,Left Handed Bat,Right-arm medium,Batsman,1978.0
+EE Hemmings,11522,Right Handed Bat,Right-arm medium,Batting Allrounder,1996.0
+EJ Chatfield,4025,Right Handed Bat,Right-arm fast-medium,Batsman,1950.0
+EJ Gray,13893,Right Handed Bat,Right-arm medium,Bowler,2000.0
+EJG Morgan,624,Left Handed Bat,Right-arm medium,Batsman,1986.0
+ES Szwarczynski,639,Right Handed Bat,,Batsman,1983.0
+Ebadot Hossain,11786,Right Handed Bat,Right-arm fast-medium,Bowler,1994.0
+Ehsan Khan,11485,Right Handed Bat,Right-arm offbreak,Bowler,1984.0
+Enamul Haque,3144,Left Handed Bat,Left-arm orthodox,Batsman,1966.0
+Enamul Haque jnr,390,Right Handed Bat,Left-arm orthodox,Bowler,1986.0
+F Behardien,8283,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1983.0
+F du Plessis,7825,Right Handed Bat,Right-arm legbreak,Batsman,1984.0
+FA Allen,9785,Right Handed Bat,Left-arm orthodox,Batting Allrounder,1995.0
+FA Rose,4229,Right Handed Bat,Right-arm fast,Batsman,1972.0
+FC Hayes,5305,Right Handed Bat,Right-arm medium,Batsman,1946.0
+FH Allen,9785,Right Handed Bat,Left-arm orthodox,Batting Allrounder,1995.0
+FH Edwards,381,Right Handed Bat,Right-arm fast,Bowler,1982.0
+FJ Klaassen,12783,Right Handed Bat,Left-arm fast-medium,Bowler,1992.0
+FL Reifer,1982,Left Handed Bat,Right-arm medium,Batsman,1972.0
+Faheem Ashraf,11265,Left Handed Bat,Right-arm medium,Bowling Allrounder,1994.0
+Faisal Iqbal,511,Right Handed Bat,Right-arm medium,Batsman,1981.0
+Fakhar Zaman,10863,Left Handed Bat,Left-arm orthodox,Batsman,1990.0
+Fareed Ahmad,9848,Left Handed Bat,Left-arm fast-medium,Bowler,1994.0
+Farhad Reza,543,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1986.0
+Fawad Alam,697,Left Handed Bat,Left-arm orthodox,Batsman,1985.0
+Fazalhaq Farooqi,14282,Right Handed Bat,Left-arm fast-medium,Bowler,2000.0
+G Coetzee,13320,Right Handed Bat,Right-arm fast,Bowler,2000.0
+G Fowler,5345,Left Handed Bat,Right-arm medium,Batsman,1957.0
+G Gambhir,308,Left Handed Bat,Right-arm legbreak,Batsman,1981.0
+G Goudie,1399,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1987.0
+G Kirsten,4601,Left Handed Bat,Right-arm offbreak,Batsman,1967.0
+G Malla,9966,Right Handed Bat,,Batsman,1990.0
+G Miller,27863,Right Handed Bat,Right-arm medium,Batsman,2002.0
+G Motie,9793,Left Handed Bat,Left-arm orthodox,Bowler,1995.0
+G Singh,19807,Right Handed Bat,Left-arm fast-medium,Bowler,1998.0
+GA Gooch,5308,Right Handed Bat,Right-arm medium,Batsman,1953.0
+GA Hick,5395,Right Handed Bat,Right-arm offbreak,Batsman,1966.0
+GB Brent,598,Right Handed Bat,Right-arm fast-medium,Batsman,1976.0
+GC Small,5368,Right Handed Bat,Right-arm fast-medium,Batsman,1961.0
+GC Smith,24876,Right Handed Bat,Right-arm medium,Bowling Allrounder,1986.0
+GC Wilson,739,Right Handed Bat,,WK-Batsman,1986.0
+GD Drummond,792,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1980.0
+GD Elliott,1064,Right Handed Bat,Right-arm fast-medium,Batsman,1979.0
+GD McGrath,41,Right Handed Bat,Right-arm fast-medium,Bowler,1970.0
+GD Phillips,10693,Right Handed Bat,Right-arm offbreak,WK-Batsman,1996.0
+GE Bradburn,4061,Right Handed Bat,Right-arm offbreak,Batsman,1966.0
+GEF Barnett,677,Left Handed Bat,Right-arm fast-medium,Batsman,1984.0
+GH Dockrell,6329,Right Handed Bat,Left-arm orthodox,Bowling Allrounder,1992.0
+GI Allott,4089,Right Handed Bat,Left-arm fast-medium,Batsman,1971.0
+GI Hume,19178,Left Handed Bat,Right-arm fast-medium,Bowler,1990.0
+GJ Bailey,1440,Right Handed Bat,Right-arm medium,Batsman,1982.0
+GJ Batty,1750,Right Handed Bat,Right-arm offbreak,Bowler,1977.0
+GJ Delany,13983,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1997.0
+GJ Hopkins,578,Right Handed Bat,,WK-Batsman,1976.0
+GJ Maxwell,7662,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1988.0
+GJ Rennie,3433,Left Handed Bat,Left-arm orthodox,Batsman,1976.0
+GJ Whittall,3421,Right Handed Bat,Right-arm medium,Batsman,1972.0
+GM Hamilton,645,Left Handed Bat,Right-arm fast-medium,Batsman,1974.0
+GM Strydom,532,Right Handed Bat,Right-arm medium,Batting Allrounder,1984.0
+GN Edwards,8305,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1992.0
+GO Jones,165,Right Handed Bat,,WK-Batsman,1976.0
+GP Swann,814,Right Handed Bat,Right-arm offbreak,Bowler,1979.0
+GP Thorpe,5411,Left Handed Bat,Right-arm medium,Batsman,1969.0
+GR Dilley,5330,Left Handed Bat,Right-arm fast,Batsman,1959.0
+GR Marsh,4713,Right Handed Bat,,Batsman,1958.0
+GRJ Matthews,4700,Left Handed Bat,Right-arm offbreak,Batsman,1959.0
+GS Ballance,6679,Left Handed Bat,Right-arm legbreak,Batsman,1989.0
+GS Blewett,4744,Right Handed Bat,Right-arm medium,Batsman,1971.0
+GW Flower,3413,Right Handed Bat,Left-arm orthodox,Batsman,1970.0
+Ghulam Shabber,11817,Left Handed Bat,,WK-Batsman,1985.0
+Gulbadin Naib,8030,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1991.0
+Gulsan Jha,20146,Left Handed Bat,Right-arm medium,Bowling Allrounder,2006.0
+H Hiri,9906,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+H Klaasen,10209,Right Handed Bat,Right-arm offbreak,WK-Batsman,1991.0
+H Masakadza,425,Right Handed Bat,Right-arm medium,Batting Allrounder,1983.0
+H Osinde,686,Right Handed Bat,Right-arm fast-medium,Bowler,1978.0
+H Patel,8175,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+H Thaker,11252,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1997.0
+HA Varaiya,553,Right Handed Bat,Left-arm orthodox,Bowler,1984.0
+HC Brook,12201,Right Handed Bat,Right-arm medium,Batsman,1999.0
+HD Rutherford,2255,Left Handed Bat,Left-arm orthodox,Batsman,1989.0
+HGV Vare,10121,Right Handed Bat,,WK-Batsman,1986.0
+HH Gibbs,212,Right Handed Bat,,Batsman,1974.0
+HH Pandya,9647,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1993.0
+HH Streak,3420,Right Handed Bat,Right-arm fast-medium,Batsman,1974.0
+HJH Marshall,56,Right Handed Bat,Right-arm medium,Batsman,1979.0
+HK Olonga,3427,Right Handed Bat,Right-arm fast,Bowler,1976.0
+HL Carlyon,15085,Right Handed Bat,Right-arm offbreak,Batting Allrounder,2001.0
+HM Amla,314,Right Handed Bat,Right-arm medium,Batsman,1983.0
+HM Nicholls,10694,Left Handed Bat,Right-arm offbreak,Batsman,1991.0
+HMRKB Herath,277,Left Handed Bat,Left-arm orthodox,Bowler,1978.0
+HN Ya France,7982,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1990.0
+HR Walsh,13959,Left Handed Bat,Right-arm legbreak,Bowler,1992.0
+HS Baidwan,1419,Right Handed Bat,Right-arm medium,Batting Allrounder,1987.0
+HT Davis,4081,Right Handed Bat,Right-arm fast,Batsman,1971.0
+HT Tector,11130,Right Handed Bat,Right-arm offbreak,Batsman,1999.0
+Habibul Bashar,114,Right Handed Bat,Right-arm offbreak,Batsman,1972.0
+Hamid Hassan,3001,Right Handed Bat,Right-arm fast,Bowler,1987.0
+Hammad Mirza,25553,Right Handed Bat,,Batsman,
+Hamza Tariq,7675,Right Handed Bat,Right-arm medium,WK-Batsman,1990.0
+Hannan Sarkar,3180,Right Handed Bat,Right-arm medium,Batsman,1982.0
+Harbhajan Singh,22561,Left Handed Bat,Right-arm legbreak,Batsman,2003.0
+Haris Rauf,14561,Right Handed Bat,Right-arm fast,Bowler,1993.0
+Haris Sohail,8299,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1989.0
+Harmeet Singh,22561,Left Handed Bat,Right-arm legbreak,Batsman,2003.0
+Hasan Ali,11320,Right Handed Bat,Right-arm fast-medium,Bowler,1994.0
+Hasan Mahmud,13226,Right Handed Bat,Right-arm fast-medium,Bowler,1999.0
+Hasan Raza,3745,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1982.0
+Haseeb Amjad,9978,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1987.0
+Hashmatullah Shahidi,8277,Left Handed Bat,Right-arm offbreak,Batsman,1994.0
+Hazratullah Zazai,12068,Left Handed Bat,Left-arm orthodox,Batsman,1998.0
+Hussain Talat,9804,Left Handed Bat,Right-arm medium,Batting Allrounder,1996.0
+I Kaia,12319,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1992.0
+I Sharma,702,Right Handed Bat,Right-arm fast-medium,Bowler,1988.0
+I Udana,1920,Right Handed Bat,Left-arm fast-medium,Bowling Allrounder,1988.0
+IA Healy,4724,Right Handed Bat,,Batsman,1964.0
+IA Karim,8077,Left Handed Bat,Right-arm offbreak,WK-Batsman,1992.0
+IDS Smith,4506,Right Handed Bat,Right-arm legbreak,Batsman,1925.0
+IG Butler,1789,Right Handed Bat,Right-arm fast,Bowler,1981.0
+IK Pathan,73,Left Handed Bat,Left-arm fast-medium,Bowling Allrounder,1984.0
+IR Bell,385,Right Handed Bat,Right-arm medium,Batsman,1982.0
+IR Bishop,4203,Right Handed Bat,Right-arm fast,Batsman,1967.0
+IS Sodhi,8561,Right Handed Bat,Right-arm legbreak,Bowler,1992.0
+IT Botham,5321,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1955.0
+Ibrahim Zadran,12173,Right Handed Bat,Right-arm fast-medium,Batsman,2001.0
+Iftikhar Ahmed,10799,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1990.0
+Ijaz Faqih,3668,Right Handed Bat,Right-arm offbreak,Batsman,1956.0
+Imad Wasim,10408,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1988.0
+Imran Farhat,129,Left Handed Bat,Right-arm legbreak,Batsman,1982.0
+Imran Khan,3647,Right Handed Bat,Right-arm fast,Bowling Allrounder,1952.0
+Imran Nazir,131,Right Handed Bat,Right-arm legbreak,Batsman,1981.0
+Imran Tahir,6667,Right Handed Bat,Right-arm legbreak,Bowler,1979.0
+Imrul Kayes,1583,Left Handed Bat,,Batsman,1987.0
+Irfan Ahmed,10799,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1990.0
+Irfan Khan,3647,Right Handed Bat,Right-arm fast,Bowling Allrounder,1952.0
+Ishan Kishan,10276,Left Handed Bat,,WK-Batsman,1998.0
+J Botha,487,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1982.0
+J Charles,8101,Right Handed Bat,,WK-Batsman,1989.0
+J Dyson,4683,Right Handed Bat,,Batsman,1954.0
+J Jarvis,2289,Right Handed Bat,Right-arm fast,Bowler,1989.0
+J Kila,10117,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1990.0
+J Mubarak,305,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1981.0
+J Nyumbu,10074,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1985.0
+J Overton,8512,Right Handed Bat,Right-arm fast,Bowling Allrounder,1994.0
+J Srinath,3894,Right Handed Bat,Right-arm fast-medium,Bowler,1969.0
+JA Burns,8121,Right Handed Bat,Right-arm medium,Batsman,1989.0
+JA Duffy,8554,Right Handed Bat,Right-arm fast-medium,Bowler,1994.0
+JA Rennie,3419,Right Handed Bat,Right-arm fast-medium,Batsman,1970.0
+JA Richardson,10280,Right Handed Bat,Right-arm fast,Bowler,1996.0
+JA Rudolph,219,Left Handed Bat,Right-arm legbreak,Batsman,1981.0
+JAH Marshall,365,Right Handed Bat,Right-arm medium,Batsman,1979.0
+JB Little,11128,Right Handed Bat,Left-arm fast-medium,Bowler,1999.0
+JC Adams,4211,Left Handed Bat,Left-arm orthodox,Batsman,1968.0
+JC Archer,11540,Right Handed Bat,Right-arm fast,Bowler,1995.0
+JC Buttler,2258,Right Handed Bat,,WK-Batsman,1990.0
+JC Tredwell,1059,Left Handed Bat,Right-arm offbreak,Bowler,1982.0
+JD Campbell,15231,Right Handed Bat,Left-arm fast-medium,Bowler,1999.0
+JD Ryder,583,Left Handed Bat,Right-arm medium,Batting Allrounder,1984.0
+JDF Vandersay,10469,Right Handed Bat,Right-arm legbreak,Bowler,1990.0
+JDP Oram,59,Left Handed Bat,Right-arm fast-medium,Bowling Allrounder,1978.0
+JDS Neesham,8983,Left Handed Bat,Right-arm fast-medium,Batting Allrounder,1990.0
+JE Emburey,5327,Right Handed Bat,Right-arm offbreak,Batsman,1952.0
+JE Root,8019,Right Handed Bat,Right-arm offbreak,Batsman,1990.0
+JE Taylor,379,Right Handed Bat,Right-arm fast,Bowler,1984.0
+JEC Franklin,419,Left Handed Bat,Left-arm medium,Bowling Allrounder,1980.0
+JF Mooney,622,Left Handed Bat,Right-arm medium,Bowling Allrounder,1982.0
+JG Bethell,19636,Left Handed Bat,Left-arm orthodox,Batting Allrounder,2003.0
+JG Bracewell,4037,Right Handed Bat,Right-arm offbreak,Batsman,1958.0
+JH Davey,6657,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+JH Kallis,213,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1975.0
+JJ Atkinson,1378,Right Handed Bat,,WK-Batsman,1990.0
+JJ Bumrah,9311,Right Handed Bat,Right-arm fast,Bowler,1993.0
+JJ Crowe,4033,Right Handed Bat,,Batsman,1958.0
+JJ Roy,6534,Right Handed Bat,,Batsman,1990.0
+JJ Smit,20978,Right Handed Bat,,WK-Batsman,
+JJ Tucker,673,Right Handed Bat,Right-arm medium,Batting Allrounder,1975.0
+JJC Lawson,4254,Right Handed Bat,Right-arm fast-medium,Bowler,1982.0
+JK Kamande,549,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1978.0
+JK Lever,5318,Right Handed Bat,Left-arm fast-medium,Batsman,1949.0
+JL Denly,1995,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1986.0
+JL Langer,281,Left Handed Bat,Right-arm medium,Batsman,1970.0
+JL Ontong,317,Right Handed Bat,Right-arm offbreak,Batsman,1980.0
+JL Pattinson,2283,Left Handed Bat,Right-arm fast,Bowler,1990.0
+JL Smith,13810,Right Handed Bat,,WK-Batsman,2000.0
+JM Anderson,65,Left Handed Bat,Right-arm fast-medium,Bowler,1982.0
+JM Bairstow,6507,Right Handed Bat,Right-arm medium,WK-Batsman,1989.0
+JM Davison,675,Right Handed Bat,Right-arm offbreak,Batsman,1970.0
+JM How,501,Right Handed Bat,Right-arm medium,Batsman,1981.0
+JM Kemp,4307,Right Handed Bat,Right-arm fast-medium,Batsman,1977.0
+JM Vince,6642,Right Handed Bat,Right-arm medium,Batsman,1991.0
+JN Frylinck,8522,Left Handed Bat,Left-arm fast-medium,Batting Allrounder,1994.0
+JN Gillespie,40,Right Handed Bat,Right-arm fast,Bowler,1975.0
+JN Malan,13067,Right Handed Bat,Right-arm legbreak,Batsman,1996.0
+JN Mohammed,8093,Right Handed Bat,Right-arm offbreak,Batsman,1986.0
+JN Rhodes,4594,Right Handed Bat,Right-arm medium,Batsman,1969.0
+JNT Seales,15817,Left Handed Bat,Right-arm medium,Bowler,2001.0
+JNT Vare,10121,Right Handed Bat,,WK-Batsman,1986.0
+JO Holder,8313,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1991.0
+JP Crawley,5415,Right Handed Bat,Right-arm medium,Batsman,1971.0
+JP Duminy,211,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1984.0
+JP Faulkner,7789,Right Handed Bat,Left-arm fast-medium,Bowling Allrounder,1990.0
+JP Greaves,14541,Right Handed Bat,Right-arm legbreak,Bowler,1990.0
+JP Inglis,10637,Right Handed Bat,,WK-Batsman,1995.0
+JP Kotze,9892,Left Handed Bat,,WK-Batsman,1994.0
+JR Hazlewood,6258,Left Handed Bat,Right-arm fast-medium,Bowler,1991.0
+JR Hopes,364,Right Handed Bat,Right-arm medium,Batsman,1978.0
+JR Murray,4210,Right Handed Bat,,Batsman,1968.0
+JS Foster,1914,Right Handed Bat,,WK-Batsman,1980.0
+JS Patel,435,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1980.0
+JT Smuts,7668,Right Handed Bat,Left-arm orthodox,Batting Allrounder,1988.0
+JTC Vaughan,4072,Left Handed Bat,Right-arm medium,Batsman,1967.0
+JW Dernbach,6537,Right Handed Bat,Right-arm fast-medium,Bowler,1986.0
+JW Hastings,1644,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1985.0
+JW Jenner,15089,Right Handed Bat,Right-arm offbreak,Batsman,1997.0
+JWA Taylor,379,Right Handed Bat,Right-arm fast,Bowler,1984.0
+Jahurul Islam,6318,Right Handed Bat,Right-arm offbreak,Batsman,1986.0
+Jaker Ali,25618,Right Handed Bat,,Batsman,
+Jasdeep Singh,36132,Right Handed Bat,Right-arm offbreak,Bowler,1996.0
+Jatinder Singh,36132,Right Handed Bat,Right-arm offbreak,Bowler,1996.0
+Javed Ahmadi,7614,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1992.0
+Javed Omar,115,Right Handed Bat,Right-arm legbreak,Batsman,1976.0
+Jay Odedra,8852,Right Handed Bat,Right-arm medium,Bowling Allrounder,1987.0
+Junaid Khan,9118,Right Handed Bat,Right-arm offbreak,Batsman,1988.0
+Junaid Siddique,784,Left Handed Bat,Right-arm offbreak,Batsman,1987.0
+Junaid Siddiqui,13133,Right Handed Bat,Right-arm medium,WK-Batsman,1994.0
+K Bhurtel,11290,Right Handed Bat,Right-arm legbreak,Batsman,1997.0
+K Doriga,9903,Right Handed Bat,,WK-Batsman,1995.0
+K Pierre,12678,Left Handed Bat,Left-arm orthodox,Bowler,1991.0
+K Rabada,9585,Left Handed Bat,Right-arm fast,Bowler,1995.0
+K Verreynne,11209,Right Handed Bat,Right-arm offbreak,WK-Batsman,1997.0
+K Weeraratne,1392,Left Handed Bat,Right-arm fast-medium,Batting Allrounder,1981.0
+KA Edwards,7748,Right Handed Bat,Right-arm offbreak,Batsman,1984.0
+KA Jamieson,9441,Right Handed Bat,Right-arm fast-medium,Bowler,1994.0
+KA Maharaj,9720,Right Handed Bat,Left-arm orthodox,Bowler,1990.0
+KA Pollard,657,Right Handed Bat,Right-arm medium,Batting Allrounder,1987.0
+KAJ Roach,1359,Right Handed Bat,Right-arm fast,Bowler,1988.0
+KC Brathwaite,1984,Right Handed Bat,Right-arm offbreak,Batsman,1992.0
+KC Sangakkara,104,Left Handed Bat,Right-arm offbreak,Batsman,1977.0
+KC Wessels,4590,Left Handed Bat,,Batsman,1957.0
+KCG Benjamin,4209,Right Handed Bat,Right-arm fast,Batsman,1967.0
+KD Karthik,145,Right Handed Bat,,WK-Batsman,1985.0
+KD Mills,202,Right Handed Bat,Right-arm fast-medium,Bowler,1979.0
+KD Shah,9981,Left Handed Bat,Right-arm offbreak,Batsman,1995.0
+KJ Abbott,9203,Right Handed Bat,Right-arm fast-medium,Bowler,1987.0
+KJ Coetzer,1415,Right Handed Bat,Right-arm fast-medium,Batsman,1984.0
+KL Rahul,8733,Right Handed Bat,,WK-Batsman,1992.0
+KLT Arthurton,4204,Left Handed Bat,Left-arm orthodox,Batsman,1965.0
+KM Dabengwa,429,Left Handed Bat,Left-arm orthodox,Batsman,1980.0
+KM Jadhav,1851,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1985.0
+KM Jarvis,2289,Right Handed Bat,Right-arm fast,Bowler,1989.0
+KMA Paul,11214,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1998.0
+KMDN Kulasekara,507,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1982.0
+KOA Powell,1989,Left Handed Bat,Right-arm medium,Batsman,1990.0
+KOK Williams,11443,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+KP Meiyappan,14230,Right Handed Bat,Right-arm legbreak,Bowler,2000.0
+KP Pietersen,395,Right Handed Bat,Right-arm offbreak,Batsman,1980.0
+KR Mayers,8440,Left Handed Bat,Right-arm medium,Batting Allrounder,1992.0
+KR Rutherford,4041,Right Handed Bat,Right-arm medium,Batsman,1965.0
+KS Williamson,6326,Right Handed Bat,Right-arm offbreak,Batsman,1990.0
+KSC de Silva,1978,Right Handed Bat,,WK-Batsman,1986.0
+KU Carty,11217,Right Handed Bat,Right-arm medium,Batting Allrounder,1997.0
+KV Morea,8479,Right Handed Bat,Left-arm medium,Bowler,1993.0
+KW Richardson,6262,Right Handed Bat,Right-arm fast-medium,Bowler,1991.0
+Kaleem Sana,14806,Right Handed Bat,Right-arm medium,Bowling Allrounder,2001.0
+Kaleemullah,12245,Right Handed Bat,Right-arm medium,Bowler,1990.0
+Kamran Akmal,77,Right Handed Bat,,WK-Batsman,1982.0
+Karan KC,10203,Right Handed Bat,Right-arm medium,Bowling Allrounder,1991.0
+Karim Sadiq,3005,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1984.0
+Kashif Daud,18682,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1986.0
+Khaled Mahmud,121,Right Handed Bat,Right-arm medium,Bowler,1971.0
+Khaled Mashud,122,Right Handed Bat,,WK-Batsman,1976.0
+Khalid Latif,860,Right Handed Bat,Right-arm offbreak,Batsman,1985.0
+Khawar Ali,13928,Right Handed Bat,Right-arm legbreak,Bowler,1998.0
+Khurram Manzoor,1044,Right Handed Bat,Right-arm offbreak,Batsman,1986.0
+Khushdil Shah,9981,Left Handed Bat,Right-arm offbreak,Batsman,1995.0
+Kuldeep Yadav,36095,Right Handed Bat,Right-arm medium,Batsman,1999.0
+L Klusener,4606,Left Handed Bat,Right-arm fast-medium,Bowling Allrounder,1971.0
+L Ngidi,9603,Right Handed Bat,Right-arm fast,Bowler,1996.0
+L Ronchi,1396,Right Handed Bat,,WK-Batsman,1981.0
+L Siaka,8467,Right Handed Bat,Right-arm fast-medium,Batsman,1992.0
+L Vincent,417,Right Handed Bat,Right-arm medium,Batsman,1978.0
+LA Dawson,6639,Right Handed Bat,Left-arm orthodox,Bowling Allrounder,1990.0
+LE Bosman,547,Right Handed Bat,Right-arm medium,Batsman,1977.0
+LE Plunkett,479,Right Handed Bat,Right-arm fast,Bowler,1985.0
+LH Ferguson,10692,Right Handed Bat,Right-arm fast,Bowler,1991.0
+LJ Tucker,11131,Right Handed Bat,,WK-Batsman,1996.0
+LJ Wright,776,Right Handed Bat,Right-arm medium,Bowling Allrounder,1985.0
+LM Jongwe,8457,Right Handed Bat,Right-arm medium,Bowling Allrounder,1995.0
+LMP Simmons,599,Right Handed Bat,Right-arm medium,Batsman,1985.0
+LN Rajbanshi,13626,Right Handed Bat,Left-arm orthodox,Bowler,1999.0
+LPC Silva,3584,Right Handed Bat,Right-arm offbreak,Batsman,1975.0
+LR Johnson,1417,Left Handed Bat,Left-arm orthodox,Bowler,1987.0
+LS Livingstone,10045,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1993.0
+LS Pascoe,4658,Right Handed Bat,Right-arm fast,Batsman,1950.0
+LV van Beek,9983,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+Litton Das,8540,Right Handed Bat,,WK-Batsman,1994.0
+M Dillon,4233,Right Handed Bat,Right-arm fast-medium,Batsman,1974.0
+M Hendrick,5306,Right Handed Bat,Right-arm fast-medium,Batsman,1948.0
+M Jansen,14565,Right Handed Bat,Left-arm fast,Bowling Allrounder,2000.0
+M Kaif,19132,Right Handed Bat,Right-arm fast-medium,Batsman,1996.0
+M Kartik,300,Left Handed Bat,Left-arm orthodox,Bowler,1976.0
+M Labuschagne,10182,Right Handed Bat,Right-arm legbreak,Batsman,1994.0
+M Morkel,608,Left Handed Bat,Right-arm fast,Bowler,1984.0
+M Muralidaran,110,Right Handed Bat,Right-arm offbreak,Bowler,1972.0
+M Ntini,216,Right Handed Bat,Right-arm fast,Bowler,1977.0
+M Pathirana,8398,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1989.0
+M Prasidh Krishna,10547,Right Handed Bat,Right-arm medium,Bowling Allrounder,1990.0
+M Shumba,11230,Left Handed Bat,Left-arm orthodox,Batsman,2000.0
+M Theekshana,18504,Right Handed Bat,Right-arm offbreak,Bowler,2000.0
+M Vijay,1597,Right Handed Bat,Right-arm offbreak,Batsman,1984.0
+MA Agarwal,2195,Right Handed Bat,Right-arm offbreak,Batsman,1991.0
+MA Atherton,5385,Right Handed Bat,Right-arm legbreak,Batsman,1968.0
+MA Carberry,6244,Left Handed Bat,Right-arm offbreak,Batsman,1980.0
+MA Ealham,5426,Right Handed Bat,Right-arm fast-medium,Batsman,1969.0
+MA Jones,13527,Right Handed Bat,Right-arm offbreak,Batsman,1998.0
+MA Leask,9383,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1990.0
+MA Ouma,194,Right Handed Bat,,WK-Batsman,1982.0
+MA Starc,7710,Left Handed Bat,Left-arm fast,Bowler,1990.0
+MA Taylor,4729,Left Handed Bat,Right-arm medium,Batsman,1964.0
+MA Vermeulen,182,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1979.0
+MA Wood,8383,Right Handed Bat,Right-arm fast,Bowler,1990.0
+MC Henriques,1437,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1987.0
+MC Snedden,4028,Left Handed Bat,Right-arm fast-medium,Batsman,1958.0
+MC Sorensen,8250,Right Handed Bat,Right-arm fast-medium,Bowler,1985.0
+MD Bell,1065,Right Handed Bat,Right-arm offbreak,Batsman,1977.0
+MD Crowe,4031,Right Handed Bat,Right-arm medium,Batsman,1962.0
+MD Dai,10191,Right Handed Bat,Right-arm medium,Batting Allrounder,1984.0
+MD Patel,522,Right Handed Bat,Right-arm fast-medium,Bowler,1983.0
+ME Trescothick,44,Left Handed Bat,Right-arm medium,Batsman,1975.0
+ME Waugh,4727,Right Handed Bat,Right-arm offbreak,Batsman,1965.0
+MEK Hussey,4772,Left Handed Bat,Right-arm medium,Batsman,1975.0
+MF Maharoof,112,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1984.0
+MG Bevan,4738,Left Handed Bat,Left-arm wrist-spin,Batsman,1970.0
+MG Bracewell,9551,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+MG Hughes,4726,Right Handed Bat,Right-arm fast,Batsman,1961.0
+MG Johnson,496,Left Handed Bat,Left-arm fast,Bowler,1981.0
+MH Cross,9365,Right Handed Bat,,WK-Batsman,1992.0
+MH Dekker,3414,Left Handed Bat,,Batsman,1969.0
+MH Yardy,556,Left Handed Bat,Left-arm orthodox,Bowler,1980.0
+MHW Papps,203,Right Handed Bat,,Batsman,1979.0
+MJ Clarke,138,Right Handed Bat,Left-arm orthodox,Batsman,1981.0
+MJ Greatbatch,4051,Left Handed Bat,Right-arm medium,Batsman,1963.0
+MJ Guptill,1457,Right Handed Bat,Right-arm offbreak,Batsman,1986.0
+MJ Hay,18612,Right Handed Bat,,WK-Batsman,2000.0
+MJ Henry,9067,Right Handed Bat,Right-arm fast-medium,Bowler,1991.0
+MJ Hoggard,386,Right Handed Bat,Right-arm fast-medium,Bowler,1976.0
+MJ Horne,4090,Right Handed Bat,Right-arm medium,Batsman,1970.0
+MJ McClenaghan,7624,Left Handed Bat,Left-arm fast-medium,Bowler,1986.0
+MJ Potts,12777,Right Handed Bat,Right-arm fast-medium,Bowler,1998.0
+MJ Prior,4829,Right Handed Bat,,WK-Batsman,1982.0
+MJ Santner,10100,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1992.0
+MJ Slater,4736,Right Handed Bat,Right-arm medium,Batsman,1970.0
+MJG Rippon,8098,Right Handed Bat,Left-arm wrist-spin,Bowling Allrounder,1991.0
+MK Pandey,1836,Right Handed Bat,Right-arm medium,Batsman,1989.0
+ML Hayden,157,Left Handed Bat,Right-arm medium,Batsman,1971.0
+ML Nkala,176,Right Handed Bat,Right-arm fast-medium,Bowler,1981.0
+ML Udawatte,1391,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1986.0
+MM Ali,46247,Right Handed Bat,Right-arm offbreak,Batting Allrounder,2004.0
+MM Patel,522,Right Handed Bat,Right-arm fast-medium,Bowler,1983.0
+MN Hart,4078,Left Handed Bat,Left-arm orthodox,Batsman,1972.0
+MN Samuels,356,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1981.0
+MN Waller,2266,Right Handed Bat,Right-arm legbreak,Bowler,1988.0
+MN van Wyk,614,Right Handed Bat,Left-arm orthodox,WK-Batsman,1979.0
+MO Jones,13527,Right Handed Bat,Right-arm offbreak,Batsman,1998.0
+MP Breetzke,13089,Right Handed Bat,,WK-Batsman,1998.0
+MP Maynard,5379,Right Handed Bat,Right-arm medium,Batsman,1966.0
+MP Stoinis,8989,Right Handed Bat,Right-arm medium,Batting Allrounder,1989.0
+MP Vaughan,161,Right Handed Bat,Right-arm offbreak,Batsman,1974.0
+MR Adair,10449,Right Handed Bat,Right-arm fast,Bowler,1996.0
+MR Gillespie,577,Right Handed Bat,Right-arm fast-medium,Bowler,1979.0
+MR Marsh,6250,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1991.0
+MR Ramprakash,5396,Right Handed Bat,Right-arm offbreak,Batsman,1969.0
+MR Swart,7962,Right Handed Bat,Right-arm offbreak,Batsman,1982.0
+MR Whitney,4698,Right Handed Bat,Left-arm fast-medium,Batsman,1959.0
+MRJ Veletta,4719,Right Handed Bat,,Batsman,1963.0
+MRJ Watt,9928,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1996.0
+MS Chapman,9976,Left Handed Bat,Left-arm orthodox,Batsman,1994.0
+MS Dhoni,265,Right Handed Bat,Right-arm medium,WK-Batsman,1981.0
+MS Kasprowicz,141,Right Handed Bat,Right-arm fast-medium,Bowler,1972.0
+MS Panesar,512,Left Handed Bat,Left-arm orthodox,Bowler,1982.0
+MS Sinclair,4104,Right Handed Bat,Right-arm medium,Batsman,1975.0
+MS Wade,1649,Left Handed Bat,,WK-Batsman,1987.0
+MT Renshaw,10055,Left Handed Bat,Right-arm offbreak,Batsman,1996.0
+MV Boucher,208,Right Handed Bat,Right-arm medium,WK-Batsman,1976.0
+MV Nagamootoo,4247,Left Handed Bat,Right-arm legbreak,Batsman,1975.0
+MW Forde,15809,Right Handed Bat,Right-arm fast-medium,Bowler,2002.0
+MW Gatting,5324,Right Handed Bat,Right-arm medium,Batsman,1957.0
+MW Goodwin,3438,Right Handed Bat,Right-arm legbreak,Batsman,1972.0
+MW Machan,6565,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+MW Pringle,4586,Right Handed Bat,Right-arm fast-medium,Batsman,1966.0
+MW Short,9456,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+Mahedi Hasan,11081,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1997.0
+Mahmudullah,1121,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1986.0
+Manjural Islam,3166,Left Handed Bat,Left-arm fast-medium,Batsman,1979.0
+Mansoor Akhtar,3755,Right Handed Bat,Right-arm legbreak,Batsman,1968.0
+Mashrafe Mortaza,323,Right Handed Bat,Right-arm fast-medium,Bowler,1983.0
+Mehidy Hasan Miraz,11081,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1997.0
+Mehrab Hossain,1393,Left Handed Bat,Left-arm orthodox,Bowler,1981.0
+Milind Kumar,8773,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+Mirwais Ashraf,3013,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1988.0
+Mohammad Aadil Alam,23071,Right Handed Bat,Right-arm medium,Batting Allrounder,2003.0
+Mohammad Akram,3736,Right Handed Bat,Right-arm fast-medium,Batsman,1974.0
+Mohammad Amir,1917,Left Handed Bat,Left-arm fast-medium,Bowler,1992.0
+Mohammad Ashraful,118,Right Handed Bat,Right-arm legbreak,Batsman,1984.0
+Mohammad Asif,326,Left Handed Bat,Right-arm fast-medium,Bowler,1982.0
+Mohammad Boota,13279,Right Handed Bat,Right-arm medium,Batsman,1983.0
+Mohammad Hafeez,360,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1980.0
+Mohammad Hasnain,12155,Right Handed Bat,,Batsman,
+Mohammad Ishaq,6777,Right Handed Bat,Right-arm medium,Batsman,1963.0
+Mohammad Mithun,1849,Right Handed Bat,Right-arm medium,Bowler,1989.0
+Mohammad Nabi,3007,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1985.0
+Mohammad Nadeem,15612,Right Handed Bat,Left-arm orthodox,Bowler,1983.0
+Mohammad Naim,13281,Left Handed Bat,,Batsman,1999.0
+Mohammad Naveed,9832,Right Handed Bat,Right-arm medium,Bowling Allrounder,1987.0
+Mohammad Rafique,123,Left Handed Bat,Left-arm orthodox,Bowler,1970.0
+Mohammad Rizwan,9468,Right Handed Bat,,WK-Batsman,1992.0
+Mohammad Saifuddin,11084,Left Handed Bat,Right-arm fast-medium,Bowling Allrounder,1996.0
+Mohammad Sami,31,Right Handed Bat,Right-arm fast,Bowler,1981.0
+Mohammad Shahzad,3014,Right Handed Bat,,WK-Batsman,1987.0
+Mohammad Sharif,611,Right Handed Bat,Right-arm fast-medium,Batsman,1985.0
+Mohammad Wasim,3749,Right Handed Bat,Right-arm legbreak,Batsman,1977.0
+Mohammad Yousuf,34,Right Handed Bat,Right-arm offbreak,Batsman,1974.0
+Mohammed Shami,7909,Right Handed Bat,Right-arm fast,Bowler,1990.0
+Mohammed Siraj,10808,Right Handed Bat,Right-arm fast,Bowler,1994.0
+Moin Khan,3651,Right Handed Bat,Right-arm medium,Batsman,1955.0
+Mominul Haque,8219,Left Handed Bat,Left-arm orthodox,Batsman,1991.0
+Mosaddek Hossain,1393,Left Handed Bat,Left-arm orthodox,Bowler,1981.0
+Mudassar Bukhari,1408,Right Handed Bat,Right-arm fast-medium,Bowler,1983.0
+Muhammad Usman,12745,Left Handed Bat,,Batsman,1985.0
+Muhammad Waseem,18987,Right Handed Bat,Right-arm medium,Batsman,1994.0
+Mujeeb Ur Rahman,9863,Left Handed Bat,Left-arm fast-medium,Bowler,1995.0
+Mushfiqur Rahim,394,Right Handed Bat,,WK-Batsman,1987.0
+Mushfiqur Rahman,9863,Left Handed Bat,Left-arm fast-medium,Bowler,1995.0
+Mushtaq Ahmed,10383,Right Handed Bat,Right-arm legbreak,Batsman,1992.0
+Mustafizur Rahman,9863,Left Handed Bat,Left-arm fast-medium,Bowler,1995.0
+N Boje,209,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1973.0
+N Davin,10780,Right Handed Bat,Right-arm legbreak,Batsman,1997.0
+N Deonarine,375,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1983.0
+N Dickwella,7884,Left Handed Bat,,WK-Batsman,1993.0
+N Dutta,9230,Right Handed Bat,Right-arm offbreak,Bowler,1994.0
+N Hussain,12451,Right Handed Bat,Right-arm legbreak,Batsman,
+N Madziva,10075,Right Handed Bat,Right-arm medium,Bowler,1991.0
+N Pokana,9910,Right Handed Bat,Left-arm fast,Bowler,1996.0
+N Pooran,9406,Left Handed Bat,Right-arm offbreak,WK-Batsman,1995.0
+N Pradeep,6730,Right Handed Bat,Right-arm fast-medium,Bowler,1986.0
+N Vanua,8480,Right Handed Bat,Right-arm medium,Bowler,1993.0
+NA Foster,5349,Right Handed Bat,Right-arm fast-medium,Batsman,1962.0
+NA Greenwood,15567,Right Handed Bat,,Batsman,1999.0
+NAM McLean,4225,Left Handed Bat,Right-arm fast,Batsman,1973.0
+NC Johnson,3441,Left Handed Bat,Right-arm fast-medium,Batsman,1970.0
+ND McKenzie,1062,Right Handed Bat,Right-arm medium,Batsman,1975.0
+NFI McCallum,651,Right Handed Bat,,Batsman,1977.0
+NG Cowans,5347,Right Handed Bat,Right-arm fast,Batsman,1961.0
+NH Fairbrother,5372,Left Handed Bat,Left-arm medium,Batsman,1963.0
+NJ Astle,50,Right Handed Bat,Right-arm medium,Batting Allrounder,1971.0
+NK Patel,10983,Right Handed Bat,Right-arm medium,Bowler,1994.0
+NL McCullum,579,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1980.0
+NM Hauritz,279,Right Handed Bat,Right-arm offbreak,Bowler,1981.0
+NM Lyon,7850,Right Handed Bat,Right-arm offbreak,Bowler,1987.0
+NM Odhiambo,6478,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1989.0
+NN Odhiambo,6478,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1989.0
+NO Miller,1404,Right Handed Bat,Left-arm orthodox,Bowler,1982.0
+NR Kumar,1423807,Right Handed Bat,Right-arm fast-medium,,1977.0
+NR Mongia,3901,Right Handed Bat,,WK-Batsman,1969.0
+NS Poonia,653,Right Handed Bat,Right-arm fast-medium,Batsman,1986.0
+NT Broom,1456,Right Handed Bat,Right-arm medium,Batsman,1983.0
+NT Ellis,15480,Right Handed Bat,Right-arm fast-medium,Bowler,1994.0
+NV Knight,5420,Left Handed Bat,Right-arm medium,Batsman,1969.0
+NW Bracken,444,Right Handed Bat,Left-arm fast-medium,Batsman,1977.0
+Nadeem Ahmed,1385,Right Handed Bat,Left-arm orthodox,Bowler,1987.0
+Naeem Islam,8244,Left Handed Bat,Left-arm orthodox,Bowler,1992.0
+Naimur Rahman,3156,Right Handed Bat,Right-arm offbreak,Batsman,1974.0
+Najibullah Zadran,8375,Left Handed Bat,Right-arm offbreak,Batsman,1993.0
+Najmul Hossain Shanto,9864,Left Handed Bat,Right-arm offbreak,Batsman,1998.0
+Naseem Khushi,12243,Right Handed Bat,,WK-Batsman,1982.0
+Naseem Shah,14247,Right Handed Bat,Right-arm fast,Bowler,2003.0
+Nasir Hossain,8018,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+Nasir Jamal,9846,Right Handed Bat,Right-arm legbreak,Batsman,1993.0
+Nasir Jamshed,1055,Left Handed Bat,,Batsman,1989.0
+Nasum Ahmed,1385,Right Handed Bat,Left-arm orthodox,Bowler,1987.0
+Nawroz Mangal,3008,Right Handed Bat,Right-arm offbreak,Batsman,1984.0
+Nizakat Khan,9980,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1992.0
+Noor Ahmad,15452,Right Handed Bat,Left-arm wrist-spin,Bowler,2005.0
+Noor Ali Zadran,8375,Left Handed Bat,Right-arm offbreak,Batsman,1993.0
+Nurul Hasan,8534,Right Handed Bat,,WK-Batsman,1993.0
+OA Shah,520,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1978.0
+OAC Banks,12791,Right Handed Bat,Right-arm offbreak,Batsman,1999.0
+OEG Baartman,13100,Right Handed Bat,Right-arm fast-medium,Bowler,1993.0
+OF Smith,25504,Right Handed Bat,Right-arm medium,Bowler,2006.0
+OJ Hairs,7887,Left Handed Bat,Right-arm offbreak,Batsman,1991.0
+OP Stone,8022,Right Handed Bat,Right-arm fast,Bowler,1993.0
+P Khadka,9958,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1987.0
+P Nissanka,13682,Right Handed Bat,,Batsman,1998.0
+P Utseya,181,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1985.0
+P Willey,5315,Right Handed Bat,Right-arm offbreak,Batsman,1949.0
+PA Jaques,498,Left Handed Bat,Left-arm medium,Batsman,1979.0
+PA Patel,74,Left Handed Bat,,WK-Batsman,1985.0
+PA Strang,3424,Right Handed Bat,Right-arm legbreak,Batsman,1970.0
+PA van Meekeren,9357,Right Handed Bat,Right-arm fast-medium,Bowler,1993.0
+PAJ DeFreitas,5369,Right Handed Bat,Right-arm fast-medium,Batsman,1966.0
+PCR Tufnell,5394,Right Handed Bat,Left-arm orthodox,Batsman,1966.0
+PD Collingwood,66,Right Handed Bat,Right-arm medium,Batsman,1976.0
+PD Salt,10479,Right Handed Bat,Right-arm offbreak,WK-Batsman,1996.0
+PDRL Perera,2281,Left Handed Bat,Right-arm fast-medium,Bowling Allrounder,1989.0
+PE McEwan,4026,Right Handed Bat,Right-arm medium,Batsman,1953.0
+PG Fulton,502,Right Handed Bat,,Batsman,1979.0
+PH Edmonds,5311,Right Handed Bat,Left-arm orthodox,Batsman,1951.0
+PJ Cummins,8095,Right Handed Bat,Right-arm fast,Bowler,1993.0
+PJ Hughes,1438,Left Handed Bat,,Batsman,1988.0
+PJ Martin,5417,Right Handed Bat,Right-arm fast-medium,Batsman,1968.0
+PJ Moor,10195,Right Handed Bat,Right-arm offbreak,WK-Batsman,1991.0
+PJ Ongondo,191,Right Handed Bat,Right-arm fast-medium,Bowler,1977.0
+PJ Wiseman,4096,Right Handed Bat,Right-arm offbreak,Batsman,1970.0
+PJW Allott,5338,Right Handed Bat,Right-arm fast-medium,Batsman,1956.0
+PKD Chase,10099,Right Handed Bat,Right-arm fast-medium,Bowler,1993.0
+PL Mommsen,6744,Right Handed Bat,Right-arm offbreak,Batsman,1987.0
+PL Symcox,4599,Right Handed Bat,Right-arm offbreak,Batsman,1960.0
+PL Taylor,4718,Left Handed Bat,Right-arm offbreak,Batsman,1956.0
+PM Seelaar,1412,Right Handed Bat,Left-arm orthodox,Bowling Allrounder,1987.0
+PM Siddle,1444,Right Handed Bat,Right-arm fast-medium,Bowler,1984.0
+PN Kirsten,4584,Right Handed Bat,Right-arm offbreak,Batsman,1955.0
+PP Ojha,1356,Left Handed Bat,Left-arm orthodox,Bowler,1986.0
+PP Shaw,12094,Right Handed Bat,Right-arm offbreak,Batsman,1999.0
+PR Adams,4605,Right Handed Bat,Left-arm wrist-spin,Bowler,1977.0
+PR Downton,5335,Right Handed Bat,Right-arm offbreak,Batsman,1957.0
+PR Reiffel,4730,Right Handed Bat,Right-arm fast-medium,Bowler,1966.0
+PR Stirling,1114,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1990.0
+PSP Handscomb,8159,Right Handed Bat,,WK-Batsman,1991.0
+PT Collins,357,Right Handed Bat,Left-arm fast-medium,Bowler,1976.0
+PV Simmons,4200,Right Handed Bat,Right-arm medium,Batsman,1963.0
+PW Borren,631,Right Handed Bat,Right-arm medium,Batting Allrounder,1983.0
+PW Jarvis,5374,Right Handed Bat,Right-arm fast-medium,Batsman,1965.0
+Pargat Singh,14254,Right Handed Bat,,WK-Batsman,2000.0
+Q de Kock,8520,Left Handed Bat,,WK-Batsman,1992.0
+R Ashwin,1593,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1986.0
+R Chopra,12440,Right Handed Bat,,Batsman,
+R Dravid,27,Right Handed Bat,Right-arm offbreak,Batsman,1973.0
+R Hekure,9905,Right Handed Bat,Right-arm medium,Bowler,1994.0
+R Klein,23896,Right Handed Bat,Right-arm fast-medium,Bowler,1997.0
+R Mutumbami,9352,Right Handed Bat,Right-arm offbreak,WK-Batsman,1989.0
+R Ngarava,11229,Left Handed Bat,Left-arm fast-medium,Bowler,1997.0
+R Powell,4241,Right Handed Bat,Right-arm offbreak,Batsman,1978.0
+R Rampaul,4265,Left Handed Bat,Right-arm fast-medium,Bowler,1984.0
+R Ravindra,11177,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1999.0
+R Shepherd,13646,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1994.0
+R Trumpelmann,14431,Right Handed Bat,Left-arm fast,Bowler,1998.0
+RA Jadeja,587,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1988.0
+RA Reifer,9398,Left Handed Bat,Left-arm medium,Batting Allrounder,1991.0
+RA Smith,5377,Right Handed Bat,Right-arm legbreak,Batsman,1963.0
+RB McCosker,4652,Right Handed Bat,Right-arm legbreak,Batsman,1946.0
+RC Irani,5423,Right Handed Bat,Right-arm medium,Batsman,1971.0
+RC Russell,7736,Right Handed Bat,Right-arm fast,Bowling Allrounder,1988.0
+RD Berrington,1398,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1987.0
+RD Gaikwad,11813,Right Handed Bat,Right-arm offbreak,Batsman,1997.0
+RD Jackman,5337,Right Handed Bat,Right-arm fast-medium,Batsman,1945.0
+RD Jacobs,4223,Left Handed Bat,,WK-Batsman,1967.0
+RD King,4236,Right Handed Bat,Right-arm fast-medium,Batsman,1975.0
+RD Rickelton,13070,Left Handed Bat,,WK-Batsman,1996.0
+RDB Croft,5428,Right Handed Bat,Right-arm offbreak,Batsman,1970.0
+RE van der Merwe,1669,Right Handed Bat,Left-arm orthodox,Bowler,1984.0
+RG Aga,188,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1984.0
+RG Sharma,10755,Right Handed Bat,,Batsman,1993.0
+RG Twose,4086,Left Handed Bat,Right-arm medium,Batsman,1968.0
+RH Vance,4054,Right Handed Bat,Right-arm offbreak,Batsman,1955.0
+RIC Holder,4212,Right Handed Bat,Right-arm medium,Batsman,1967.0
+RJ Bright,4642,Right Handed Bat,Left-arm orthodox,Batsman,1954.0
+RJ Harris,1442,Right Handed Bat,Right-arm fast,Bowler,1979.0
+RJ Nicol,6333,Right Handed Bat,Right-arm medium,Batsman,1983.0
+RJ Peterson,318,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1979.0
+RJ Sidebottom,703,Left Handed Bat,Left-arm fast-medium,Bowler,1978.0
+RJ Trott,865,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1987.0
+RJW Topley,8349,Right Handed Bat,Left-arm fast-medium,Bowler,1994.0
+RK Chauhan,10668,Right Handed Bat,Left-arm orthodox,Batsman,1993.0
+RK Illingworth,5398,Right Handed Bat,Left-arm orthodox,Bowler,1963.0
+RK Paudel,12140,Right Handed Bat,Right-arm offbreak,Batting Allrounder,2002.0
+RL Chase,11543,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1992.0
+RM Ellison,5356,Left Handed Bat,Right-arm fast-medium,Batsman,1959.0
+RML Taylor,521,Right Handed Bat,Right-arm offbreak,Batsman,1984.0
+RN Lewis,514,Right Handed Bat,Right-arm legbreak,Batsman,1974.0
+RN ten Doeschate,640,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1980.0
+RO Hinds,248,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1981.0
+RP Arnold,405,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1973.0
+RP Burl,8454,Left Handed Bat,Right-arm legbreak,Batting Allrounder,1994.0
+RP Singh,12337,Right Handed Bat,Right-arm medium,Batting Allrounder,1997.0
+RP Snell,4589,Right Handed Bat,Right-arm fast-medium,Batsman,1968.0
+RR Hendricks,9491,Right Handed Bat,Right-arm offbreak,Batsman,1989.0
+RR Pant,10744,Left Handed Bat,,WK-Batsman,1997.0
+RR Patel,12792,Left Handed Bat,Right-arm medium,Batting Allrounder,1997.0
+RR Rossouw,2244,Left Handed Bat,Right-arm offbreak,Batsman,1989.0
+RR Sarwan,252,Right Handed Bat,Right-arm legbreak,Batsman,1980.0
+RR Watson,655,Right Handed Bat,,Batsman,1976.0
+RS Bopara,571,Right Handed Bat,Right-arm medium,Batting Allrounder,1985.0
+RS Kalpage,3560,Left Handed Bat,Right-arm offbreak,Batsman,1970.0
+RS Kaluwitharana,3555,Right Handed Bat,,WK-Batsman,1969.0
+RS Morton,384,Right Handed Bat,,Batsman,1978.0
+RT Ponting,38,Right Handed Bat,Right-arm medium,Batsman,1974.0
+RT Robinson,4661,Right Handed Bat,,Batsman,1946.0
+RV Uthappa,527,Right Handed Bat,Right-arm medium,WK-Batsman,1985.0
+RW Chakabva,781,Right Handed Bat,Right-arm offbreak,WK-Batsman,1987.0
+RW Price,884,Right Handed Bat,Left-arm orthodox,Bowler,1976.0
+RW Taylor,521,Right Handed Bat,Right-arm offbreak,Batsman,1984.0
+RWT Key,1915,Right Handed Bat,Right-arm offbreak,Batsman,1979.0
+Rahat Ali,8301,Right Handed Bat,Left-arm fast-medium,Bowler,1988.0
+Rahmanullah Gurbaz,13213,Right Handed Bat,,WK-Batsman,2001.0
+Rahmat Shah,8571,Right Handed Bat,Right-arm legbreak,Batsman,1993.0
+Rajin Saleh,116,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1983.0
+Rameez Shahzad,11568,Right Handed Bat,Right-arm offbreak,Batsman,1987.0
+Raqibul Hasan,3215,Right Handed Bat,Right-arm legbreak,Batsman,1987.0
+Rashid Khan,3669,Right Handed Bat,Right-arm fast-medium,Batsman,1959.0
+Rashid Latif,3720,Right Handed Bat,Right-arm legbreak,Batsman,1968.0
+Ravinderpal Singh,12337,Right Handed Bat,Right-arm medium,Batting Allrounder,1997.0
+Rehan Ahmed,19767,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,2004.0
+Rishad Hossain,1736,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+Rizwan Cheema,1426,Right Handed Bat,Right-arm medium,Batsman,1978.0
+Rohan Mustafa,9835,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1988.0
+Rubel Hossain,1736,Right Handed Bat,Right-arm fast-medium,Bowler,1990.0
+S Bau,8470,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1992.0
+S Chanderpaul,244,Left Handed Bat,Right-arm legbreak,Batsman,1974.0
+S Dhaniram,684,Left Handed Bat,Left-arm orthodox,Batsman,1968.0
+S Dhawan,1446,Left Handed Bat,Right-arm offbreak,Batsman,1985.0
+S Elworthy,4610,Right Handed Bat,Right-arm fast-medium,Batsman,1965.0
+S Jora,14220,Right Handed Bat,,Batsman,2001.0
+S Joseph,50458,Left Handed Bat,Right-arm fast,Bowler,1999.0
+S Lamichhane,11158,Right Handed Bat,Right-arm legbreak,Bowler,2000.0
+S Mahmood,10394,Right Handed Bat,Right-arm fast-medium,Bowler,1997.0
+S Matsikenyeri,174,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1983.0
+S Muthusamy,11432,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1994.0
+S Prasanna,8063,Right Handed Bat,Right-arm legbreak,Bowler,1985.0
+S Ramesh,3935,,,,
+S Ranatunga,3575,Left Handed Bat,Right-arm offbreak,Batsman,1969.0
+S Randiv,1979,Right Handed Bat,Right-arm offbreak,Bowler,1985.0
+S Samarawickrama,9495,Right Handed Bat,,WK-Batsman,1995.0
+S Shrivastava,9699,Right Handed Bat,Right-arm fast-medium,Batsman,1986.0
+S Sreesanth,463,Right Handed Bat,Right-arm fast-medium,Bowler,1983.0
+SA Abbott,8136,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+SA Edwards,13272,Right Handed Bat,,WK-Batsman,1996.0
+SA Engelbrecht,2232,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1988.0
+SA Thomson,4057,Right Handed Bat,,Batsman,1969.0
+SA Yadav,11641,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1999.0
+SB Doull,4068,Right Handed Bat,Right-arm medium,Batsman,1969.0
+SB Joshi,1447985,Right Handed Bat,,,2000.0
+SB Styris,58,Right Handed Bat,Right-arm medium,Batting Allrounder,1975.0
+SC Ganguly,29,Left Handed Bat,Right-arm medium,Batsman,1972.0
+SC Joseph,50458,Left Handed Bat,Right-arm fast,Bowler,1999.0
+SC Williams,4215,Right Handed Bat,Right-arm medium,Batsman,1969.0
+SC van Schalkwyk,2245,Left Handed Bat,Right-arm fast-medium,Bowling Allrounder,1988.0
+SCJ Broad,554,Left Handed Bat,Right-arm fast-medium,Bowler,1986.0
+SD Hope,10384,Right Handed Bat,,WK-Batsman,1993.0
+SE Bond,418,Right Handed Bat,Right-arm fast,Bowler,1975.0
+SE Marsh,563,Left Handed Bat,Left-arm orthodox,Batsman,1983.0
+SE Rutherford,13748,Left Handed Bat,Right-arm fast-medium,Batting Allrounder,1998.0
+SF Mire,9737,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1989.0
+SI Kamea,13512,Left Handed Bat,Left-arm fast-medium,Bowler,2001.0
+SJ Baard,7971,Right Handed Bat,Right-arm fast-medium,Batsman,1992.0
+SJ Benn,1117,Left Handed Bat,Left-arm orthodox,Bowler,1981.0
+SJ Harmison,62,Right Handed Bat,Right-arm fast-medium,Bowler,1978.0
+SJ Myburgh,8073,Left Handed Bat,Right-arm offbreak,Batsman,1984.0
+SK Atai,13464,Left Handed Bat,Left-arm orthodox,Batsman,1999.0
+SK Raina,413,Left Handed Bat,Right-arm offbreak,Batsman,1986.0
+SK Warne,135,Right Handed Bat,Right-arm legbreak,Bowler,1969.0
+SL Campbell,4217,Right Handed Bat,Right-arm medium,Batsman,1970.0
+SM Curran,10420,Left Handed Bat,Left-arm fast-medium,Bowling Allrounder,1998.0
+SM Davies,1841,Left Handed Bat,,WK-Batsman,1986.0
+SM Katich,280,Left Handed Bat,Left-arm wrist-spin,Batsman,1975.0
+SM Pollock,218,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1973.0
+SM Sharif,12736,Right Handed Bat,,WK-Batsman,1990.0
+SMSM Senanayake,6729,Right Handed Bat,Right-arm offbreak,Bowler,1985.0
+SN Thakur,8683,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1991.0
+SO Hetmyer,9789,Left Handed Bat,,Batsman,1996.0
+SO Ngoche,7708,Right Handed Bat,Left-arm orthodox,Bowler,1989.0
+SO Tikolo,186,Right Handed Bat,,Batting Allrounder,1971.0
+SP Fleming,49,Left Handed Bat,,Batsman,1973.0
+SP Khakurel,9965,Right Handed Bat,,WK-Batsman,1993.0
+SP Narine,2276,Left Handed Bat,Right-arm offbreak,Bowling Allrounder,1988.0
+SP Patil,12315,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1996.0
+SPD Smith,2250,Right Handed Bat,Right-arm legbreak,Batsman,1989.0
+SR Clark,432,Right Handed Bat,Right-arm fast-medium,Bowler,1975.0
+SR Mukkamalla,26232,Right Handed Bat,Right-arm offbreak,Batsman,2004.0
+SR Patel,8350,Right Handed Bat,,WK-Batsman,1993.0
+SR Taylor,9095,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+SR Thompson,7985,Left Handed Bat,Right-arm fast-medium,Bowling Allrounder,1991.0
+SR Watson,158,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1981.0
+SR Waugh,4712,Right Handed Bat,Right-arm medium,Batsman,1965.0
+SS Cottrell,9395,Right Handed Bat,Left-arm fast-medium,Bowler,1989.0
+SS Iyer,9428,Right Handed Bat,Right-arm legbreak,Batsman,1994.0
+SS McKechnie,11478,Right Handed Bat,,WK-Batsman,1991.0
+SS Pathirana,8398,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1989.0
+SSJ Brooks,11446,Right Handed Bat,Right-arm legbreak,Batsman,1988.0
+ST Finn,6317,Right Handed Bat,Right-arm fast-medium,Bowler,1989.0
+ST Gabriel,8092,Right Handed Bat,Right-arm fast-medium,Bowler,1988.0
+ST Jayasuriya,7883,Left Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+SV Carlisle,3425,Right Handed Bat,Right-arm medium,Batsman,1972.0
+SV Manjrekar,3879,Right Handed Bat,Right-arm offbreak,Batsman,1965.0
+SV Samson,8271,Right Handed Bat,,WK-Batsman,1994.0
+SW Billings,7990,Right Handed Bat,,WK-Batsman,1991.0
+SW Masakadza,1630,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1986.0
+SW Poynter,7984,Right Handed Bat,,WK-Batsman,1990.0
+SW Tait,407,Right Handed Bat,Right-arm fast,Bowler,1983.0
+Saad Bin Zafar,11472,Right Handed Bat,Right-arm fast-medium,Bowler,1999.0
+Sabbir Rahman,37196,Right Handed Bat,,Batsman,1994.0
+Saeed Ajmal,1053,Right Handed Bat,Right-arm offbreak,Bowler,1977.0
+Saeed Anwar,9837,Right Handed Bat,Right-arm fast-medium,Batsman,1979.0
+Saif Hassan,11090,Right Handed Bat,Right-arm offbreak,Batsman,1998.0
+Sajid Khan,10226,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+Saleem Elahi,3737,Right Handed Bat,Right-arm offbreak,Batsman,1976.0
+Salman Butt,6780,Right Handed Bat,Right-arm fast-medium,Batsman,1966.0
+Samiullah Shinwari,3011,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1987.0
+Sandeep Goud,24790,Left Handed Bat,Left-arm fast-medium,Bowler,1984.0
+Sanuar Hossain,8545,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1997.0
+Saqib Zulfiqar,11330,Right Handed Bat,Right-arm medium,Batsman,1997.0
+Saqlain Mushtaq,3738,Right Handed Bat,Right-arm offbreak,Batsman,1976.0
+Sarfaraz Ahmed,12746,Left Handed Bat,Left-arm orthodox,Bowler,1989.0
+Saud Shakeel,9812,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1995.0
+Shabbir Ahmed,12746,Left Handed Bat,Left-arm orthodox,Bowler,1989.0
+Shadab Khan,10226,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+Shafiqullah,3016,Right Handed Bat,,WK-Batsman,1989.0
+Shafiul Islam,6241,Right Handed Bat,Right-arm fast-medium,Bowler,1989.0
+Shahadat Hossain,8545,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1997.0
+Shaheen Shah Afridi,142,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,1980.0
+Shahid Afridi,142,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,1980.0
+Shahid Nazir,380,Right Handed Bat,Right-arm fast-medium,Bowler,1977.0
+Shahid Wasif,11479,Right Handed Bat,Right-arm offbreak,WK-Batsman,1997.0
+Shahriar Hossain,8545,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1997.0
+Shahriar Nafees,393,Left Handed Bat,,Batsman,1985.0
+Shaiman Anwar,9837,Right Handed Bat,Right-arm fast-medium,Batsman,1979.0
+Shakeel Ahmed,12746,Left Handed Bat,Left-arm orthodox,Bowler,1989.0
+Shakib Al Hasan,544,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1987.0
+Shamim Hossain,8545,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1997.0
+Shamsur Rahman,37196,Right Handed Bat,,Batsman,1994.0
+Shan Masood,9545,Left Handed Bat,Right-arm medium,Batsman,1989.0
+Shapoor Zadran,3015,Left Handed Bat,Left-arm fast-medium,Bowler,1985.0
+Sharafuddin Ashraf,9854,Right Handed Bat,Left-arm orthodox,Bowling Allrounder,1995.0
+Shariz Ahmad,24396,Left Handed Bat,Right-arm legbreak,Bowling Allrounder,2003.0
+Sharjeel Khan,10226,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+Shoaib Akhtar,13623,Right Handed Bat,Right-arm medium,Batting Allrounder,1986.0
+Shoaib Khan,10226,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+Shoaib Malik,33,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1982.0
+Shoriful Islam,6241,Right Handed Bat,Right-arm fast-medium,Bowler,1989.0
+Shubman Gill,11808,Right Handed Bat,Right-arm offbreak,Batsman,1999.0
+Sikandar Raza,9354,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1986.0
+Simi Singh,10919,Right Handed Bat,Right-arm medium,Batting Allrounder,1991.0
+Sohag Gazi,8218,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1991.0
+Sohaib Maqsood,9524,Right Handed Bat,Right-arm offbreak,Batsman,1987.0
+Sohail Khan,10226,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+Sohail Tanvir,859,Left Handed Bat,Left-arm fast-medium,Bowler,1984.0
+Sompal Kami,9970,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1996.0
+Soumya Sarkar,8233,Left Handed Bat,Right-arm medium,Batsman,1993.0
+Suraj Kumar,10305,Right Handed Bat,,WK-Batsman,1995.0
+Syed Rasel,433,Left Handed Bat,Left-arm fast-medium,Bowler,1984.0
+T Banton,12254,Right Handed Bat,,WK-Batsman,1998.0
+T Bavuma,8583,Right Handed Bat,Right-arm medium,Batsman,1990.0
+T Gwandu,25037,Right Handed Bat,Right-arm medium,Bowler,1998.0
+T Kaitano,19601,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1993.0
+T Lungameni,11437,Right Handed Bat,Left-arm medium,Bowler,1992.0
+T Maruma,782,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1988.0
+T Marumani,15877,Left Handed Bat,Right-arm offbreak,WK-Batsman,2002.0
+T Mishra,551,Right Handed Bat,Right-arm fast-medium,Batsman,1986.0
+T Munyonga,14800,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1999.0
+T Panyangara,3465,Right Handed Bat,Right-arm fast-medium,Bowler,1985.0
+T Shamsi,10173,Right Handed Bat,Left-arm wrist-spin,Bowler,1990.0
+T Stubbs,19243,Right Handed Bat,Right-arm offbreak,WK-Batsman,2000.0
+T Suri,9829,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+T Taibu,169,Right Handed Bat,Right-arm offbreak,WK-Batsman,1983.0
+T Thushara,1119,Left Handed Bat,Left-arm fast-medium,Bowler,1981.0
+T de Zorzi,11196,Left Handed Bat,Right-arm offbreak,Batsman,1997.0
+T van der Gugten,7801,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1991.0
+TA Blundell,10717,Right Handed Bat,Right-arm offbreak,WK-Batsman,1990.0
+TA Boult,8117,Right Handed Bat,Left-arm fast-medium,Bowler,1989.0
+TB Sole,12771,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,1996.0
+TBA May,4721,Right Handed Bat,Right-arm offbreak,Batsman,1962.0
+TD Astle,8676,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,1986.0
+TD Paine,1994,Right Handed Bat,Right-arm medium,WK-Batsman,1984.0
+TE Blain,4044,Right Handed Bat,Right-arm legbreak,Batsman,1962.0
+TG Southee,1057,Right Handed Bat,Right-arm fast-medium,Bowler,1988.0
+TJ Friend,3445,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1981.0
+TJ Murtagh,6661,Left Handed Bat,Right-arm fast-medium,Bowler,1981.0
+TK Curran,9522,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1995.0
+TK Musakanda,9950,Right Handed Bat,Right-arm fast-medium,Batsman,1994.0
+TL Best,382,Right Handed Bat,Right-arm fast,Bowling Allrounder,1981.0
+TL Chatara,6483,Right Handed Bat,Right-arm fast-medium,Bowler,1991.0
+TL Chivanga,11763,Right Handed Bat,Right-arm fast,Bowler,1993.0
+TLW Cooper,6708,Right Handed Bat,Right-arm offbreak,Batsman,1986.0
+TM Dilshan,105,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1976.0
+TM Head,8497,Left Handed Bat,Right-arm offbreak,Batsman,1993.0
+TM Moody,4720,Right Handed Bat,Right-arm medium,Batsman,1965.0
+TM Odoyo,190,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1978.0
+TN de Grooth,1409,Right Handed Bat,Right-arm offbreak,Batsman,1979.0
+TP Ura,10115,Right Handed Bat,,WK-Batsman,1989.0
+TR Gripper,3454,Right Handed Bat,Right-arm offbreak,Batsman,1975.0
+TS Chisoro,10735,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1988.0
+TS Kamunhukamwe,9947,Right Handed Bat,Right-arm offbreak,Batsman,1995.0
+TT Bresnan,537,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1985.0
+TT Samaraweera,307,Right Handed Bat,Right-arm offbreak,Batsman,1976.0
+TWM Latham,8216,Left Handed Bat,Right-arm medium,WK-Batsman,1992.0
+Taijul Islam,8253,Left Handed Bat,Left-arm orthodox,Bowler,1992.0
+Talha Jubair,3186,Right Handed Bat,Right-arm medium,Bowler,1985.0
+Tamim Iqbal,612,Left Handed Bat,,Batsman,1989.0
+Tanwir Afzal,9982,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1988.0
+Tapash Baisya,125,Right Handed Bat,Right-arm fast-medium,Bowler,1982.0
+Taskin Ahmed,11342,Right Handed Bat,Right-arm fast-medium,Bowler,1997.0
+Taufeeq Umar,80,Left Handed Bat,Right-arm offbreak,WK-Batsman,1981.0
+Tayyab Tahir,6667,Right Handed Bat,Right-arm legbreak,Bowler,1979.0
+Towhid Hridoy,13223,Right Handed Bat,Right-arm offbreak,Batsman,2000.0
+Tushar Imran,396,Right Handed Bat,,Batsman,1983.0
+U Bhatti,678,Left Handed Bat,Left-arm medium,Bowler,1984.0
+UDU Chandana,107,Right Handed Bat,Right-arm legbreak,Bowler,1972.0
+UT Khawaja,6635,Left Handed Bat,Right-arm offbreak,Batsman,1986.0
+UT Yadav,1858,Right Handed Bat,Right-arm fast,Bowler,1987.0
+Umar Akmal,1992,Right Handed Bat,,Batsman,1990.0
+Umar Amin,1740,Left Handed Bat,Right-arm medium,Batting Allrounder,1989.0
+Umar Gul,504,Right Handed Bat,Right-arm fast-medium,Bowler,1984.0
+Usman Ghani,9855,Right Handed Bat,,Batsman,1996.0
+V Aravind,15459,Right Handed Bat,,WK-Batsman,2002.0
+V Kohli,1413,Right Handed Bat,Right-arm medium,Batsman,1988.0
+V Sehwag,26,Right Handed Bat,Right-arm offbreak,Batsman,1978.0
+V Sibanda,179,Right Handed Bat,Right-arm medium,Batsman,1983.0
+VB John,3520,Right Handed Bat,Right-arm fast-medium,Batsman,1960.0
+VD Philander,731,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1985.0
+VG Kambli,3893,Left Handed Bat,Right-arm offbreak,Batsman,1972.0
+VJ Kingma,9391,Right Handed Bat,Right-arm medium,Bowler,1994.0
+VM Nyauchi,11153,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+VV Morea,10118,Right Handed Bat,Right-arm medium,Batting Allrounder,1983.0
+VVS Laxman,28,Right Handed Bat,Right-arm offbreak,Batsman,1974.0
+Vikramjit Singh,10984,Left Handed Bat,Left-arm medium,Bowler,1994.0
+W Barresi,6707,Right Handed Bat,Right-arm offbreak,WK-Batsman,1984.0
+W Larkins,5331,Right Handed Bat,Right-arm medium,Batsman,1953.0
+W Madhevere,11226,Right Handed Bat,Right-arm offbreak,Batting Allrounder,2000.0
+W Watson,158,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,1981.0
+WA Young,8549,Right Handed Bat,Right-arm offbreak,Batsman,1992.0
+WD Parnell,1692,Left Handed Bat,Left-arm fast-medium,Bowler,1989.0
+WG Jacks,12258,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1998.0
+WKM Benjamin,4198,Right Handed Bat,Right-arm fast,Batsman,1964.0
+WP Masakadza,8460,Left Handed Bat,Left-arm orthodox,Bowler,1993.0
+WP Saha,1465,Right Handed Bat,,WK-Batsman,1984.0
+WTS Porterfield,625,Left Handed Bat,Right-arm offbreak,Batsman,1984.0
+WV Raman,3876,Left Handed Bat,Left-arm orthodox,Batsman,1965.0
+WW Hinds,249,Left Handed Bat,Right-arm medium,Batting Allrounder,1976.0
+Wahab Riaz,1051,Right Handed Bat,Left-arm fast,Bowler,1985.0
+Wajahatullah Wasti,3760,Right Handed Bat,Right-arm offbreak,Batsman,1974.0
+Waqar Younis,3706,Right Handed Bat,Right-arm fast,Bowler,1971.0
+Waqas Barkat,9974,Right Handed Bat,Right-arm legbreak,Batting Allrounder,1990.0
+Waqas Khan,10208,Right Handed Bat,Right-arm fast-medium,Batsman,1999.0
+Washington Sundar,10945,Left Handed Bat,Right-arm offbreak,Bowling Allrounder,1999.0
+XJ Doherty,7729,Left Handed Bat,Left-arm orthodox,Bowler,1982.0
+XM Marshall,359,Right Handed Bat,Right-arm offbreak,Batsman,1986.0
+YK Pathan,790,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1982.0
+YS Chahal,7910,Right Handed Bat,Right-arm legbreak,Bowler,1990.0
+Yamin Ahmadzai,9609,Right Handed Bat,Right-arm fast-medium,Bowler,1992.0
+Yasir Ali,9869,Right Handed Bat,Right-arm offbreak,Batsman,1996.0
+Yasir Arafat,494,Right Handed Bat,Right-arm medium,Bowler,1982.0
+Yasir Hameed,79,Right Handed Bat,Right-arm offbreak,Batsman,1978.0
+Yasir Shah,8064,Right Handed Bat,Right-arm legbreak,Bowler,1986.0
+Younis Khan,130,Right Handed Bat,Right-arm medium,Batsman,1977.0
+Yuvraj Singh,24346,Right Handed Bat,Right-arm offbreak,Batsman,2004.0
+Z Crawley,12770,Right Handed Bat,Right-arm medium,Batsman,1998.0
+Z Khan,23991,Right Handed Bat,Right-arm fast-medium,Bowler,2001.0
+ZE Green,9890,Left Handed Bat,,WK-Batsman,1996.0
+ZG Foulkes,24391,Right Handed Bat,Right-arm medium,Bowling Allrounder,2002.0
+Zahid Fazal,3713,Right Handed Bat,,Batsman,1973.0
+Zahoor Khan,23991,Right Handed Bat,Right-arm fast-medium,Bowler,2001.0
+Zawar Farid,15335,Right Handed Bat,Right-arm medium,Bowler,1992.0
+Zeeshan Maqsood,10466,Left Handed Bat,Left-arm orthodox,Batting Allrounder,1987.0
+Ziaur Rahman,8227,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1986.0
+Zulfiqar Babar,8991,Right Handed Bat,Left-arm orthodox,Bowler,1978.0
+A Kuruvilla,3916,Right Handed Bat,Right-arm fast-medium,Bowler,1968.0
+A Ranatunga,3517,Left Handed Bat,Right-arm medium,Batsman,1963.0
+AA Mallett,4629,Right Handed Bat,Right-arm offbreak,Batsman,1945.0
+AB Dinda,1467,Right Handed Bat,Right-arm fast-medium,Bowler,1984.0
+AG Hurst,4649,Right Handed Bat,Right-arm fast,Batsman,1950.0
+ALF de Mel,3514,Right Handed Bat,Right-arm fast-medium,Batsman,1959.0
+AM Phangiso,7649,Right Handed Bat,Left-arm orthodox,Bowler,1984.0
+AME Roberts,5649,Right Handed Bat,Right-arm medium,Batsman,1909.0
+AP Gurusinha,3535,Left Handed Bat,Right-arm medium,Batsman,1966.0
+AR Border,4672,Left Handed Bat,Left-arm orthodox,Batsman,1955.0
+AY Patel,8808,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1994.0
+Aamer Nazir,3725,Right Handed Bat,Right-arm fast-medium,Batsman,1971.0
+Abdul Qadir,3678,Right Handed Bat,Right-arm legbreak,Batsman,1955.0
+Ahsan Malik,15615,Right Handed Bat,Right-arm medium,Bowler,1982.0
+Asif Iqbal,29711,Right Handed Bat,Right-arm medium,Bowler,1991.0
+Azeem Hafeez,3679,Left Handed Bat,Left-arm fast-medium,Batsman,1963.0
+B Shikongo,13444,Right Handed Bat,Right-arm fast-medium,Bowler,2000.0
+BD Julien,4155,Right Handed Bat,Left-arm fast-medium,Batsman,1950.0
+BE Hendricks,9490,Left Handed Bat,Left-arm fast-medium,Bowler,1990.0
+BJ Dwarshuis,9739,Left Handed Bat,Left-arm fast-medium,Bowler,1994.0
+BM Tickner,10730,Right Handed Bat,Right-arm fast-medium,Bowler,1993.0
+BS Sandhu,3855,Right Handed Bat,Right-arm fast-medium,Batsman,1956.0
+BV Sears,11178,Right Handed Bat,Right-arm fast-medium,Bowler,1998.0
+C Sharma,3858,Right Handed Bat,Right-arm fast-medium,Batsman,1966.0
+CEH Croft,6705,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1984.0
+CK Langeveldt,215,Right Handed Bat,Right-arm fast-medium,Batsman,1974.0
+CM Old,5302,Left Handed Bat,Right-arm fast-medium,Batsman,1948.0
+D Mohammed,535,Left Handed Bat,Left-arm wrist-spin,Batting Allrounder,1979.0
+DA Marillier,3446,Right Handed Bat,Right-arm offbreak,Batsman,1978.0
+DK Lillee,4636,Right Handed Bat,Right-arm fast,Batsman,1949.0
+DL Underwood,5280,Right Handed Bat,,Batsman,1945.0
+DS de Silva,7872,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1991.0
+EAE Baptiste,4188,Right Handed Bat,Right-arm fast-medium,Batsman,1960.0
+G Dymock,4644,Left Handed Bat,Left-arm fast-medium,Batsman,1945.0
+G Sharma,33162,Right Handed Bat,Right-arm medium,Bowler,1994.0
+GB Troup,4017,Right Handed Bat,Left-arm fast-medium,Batsman,1952.0
+GD Campbell,4728,Right Handed Bat,Right-arm fast-medium,Batsman,1964.0
+GF Labrooy,3543,Right Handed Bat,Right-arm fast-medium,Batsman,1964.0
+GF Lawson,4686,Right Handed Bat,Right-arm fast,Batsman,1957.0
+GG Arnold,5283,Right Handed Bat,Right-arm fast-medium,Batsman,1944.0
+GJ Gilmour,4645,Left Handed Bat,Left-arm fast-medium,Batsman,1951.0
+GR Larsen,4055,Right Handed Bat,Right-arm medium,Batsman,1962.0
+GS Chappell,4624,Right Handed Bat,Right-arm medium,Batsman,1948.0
+GT Main,9922,Right Handed Bat,Right-arm fast,Bowler,1995.0
+HJ Howarth,3999,Left Handed Bat,Left-arm orthodox,Batsman,1943.0
+HK Bennett,7678,Left Handed Bat,Right-arm fast-medium,Bowler,1987.0
+Hamza Tahir,13744,Right Handed Bat,Left-arm orthodox,Bowler,1995.0
+IG Holland,8632,Right Handed Bat,Right-arm medium,Bowling Allrounder,1990.0
+Iqbal Qasim,3658,Left Handed Bat,Left-arm orthodox,Batsman,1953.0
+J Garner,4170,Right Handed Bat,Right-arm fast,Batsman,1952.0
+J Theron,6320,Right Handed Bat,Right-arm fast-medium,Bowler,1985.0
+JA Snow,5275,Right Handed Bat,Right-arm fast-medium,Batsman,1941.0
+JN Maguire,19561,Right Handed Bat,Right-arm medium,Bowler,2003.0
+JP Behrendorff,7773,Right Handed Bat,Left-arm fast-medium,Bowler,1990.0
+JR Thomson,4651,Right Handed Bat,Right-arm fast,Batsman,1950.0
+JTS Sumerauer,15094,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,2001.0
+JV Coney,4022,Right Handed Bat,Right-arm medium,Batsman,1952.0
+KD Boyce,4150,Right Handed Bat,Right-arm fast-medium,Batsman,1943.0
+KD Ghavri,3829,Left Handed Bat,Left-arm medium,Batsman,1951.0
+KK Ahmed,10952,Right Handed Bat,Left-arm fast-medium,Bowler,1997.0
+L Balaji,96,Right Handed Bat,Right-arm fast-medium,Bowler,1981.0
+L Sipamla,11208,Right Handed Bat,Right-arm fast-medium,Bowler,1998.0
+L Sivaramakrishnan,3867,Right Handed Bat,Right-arm legbreak,Batsman,1965.0
+LB Williams,8531,Left Handed Bat,Right-arm fast-medium,Bowler,1993.0
+LL Tsotsobe,1689,Right Handed Bat,Left-arm fast-medium,Bowler,1984.0
+M Amarnath,3827,Right Handed Bat,Right-arm medium,Batsman,1950.0
+M Prabhakar,3860,Right Handed Bat,Right-arm medium,Batsman,1963.0
+M Zondeki,372,Right Handed Bat,Right-arm fast,Bowler,1982.0
+MA Holding,4167,Right Handed Bat,Right-arm fast,Batsman,1954.0
+MD Marshall,4182,Right Handed Bat,Right-arm fast,Batsman,1958.0
+MHN Walker,4124,Right Handed Bat,Right-arm medium,Batsman,1977.0
+MJ Swepson,10626,Right Handed Bat,Right-arm legbreak,Bowler,1993.0
+Majid Khan,3651,Right Handed Bat,Right-arm medium,Batsman,1955.0
+Maninder Singh,6319,Right Handed Bat,Right-arm medium,Batsman,1991.0
+Mohammad Irfan,7621,Right Handed Bat,Left-arm fast-medium,Bowler,1982.0
+Mohammad Zahid,3750,Right Handed Bat,Right-arm fast-medium,Batsman,1976.0
+Mohsin Kamal,3689,Right Handed Bat,Right-arm fast,Batsman,1963.0
+Mudassar Nazar,3655,Right Handed Bat,Right-arm medium,Batsman,1956.0
+N Burger,13630,Left Handed Bat,Left-arm fast-medium,Bowler,1995.0
+NC McGarrell,4234,Right Handed Bat,Left-arm orthodox,Batsman,1972.0
+ND Hirwani,3880,Right Handed Bat,Right-arm legbreak,Batsman,1968.0
+NG Smith,11170,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1998.0
+NO Perry,4240,Right Handed Bat,Right-arm offbreak,Batsman,1968.0
+Nahid Rana,13560,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,2002.0
+P Kumar,15968,Right Handed Bat,,Batsman,1999.0
+P Lever,5294,Right Handed Bat,Right-arm fast-medium,Batsman,1940.0
+PC Connell,1400,Right Handed Bat,Right-arm fast-medium,Bowler,1981.0
+Pramod Madushan,13679,Right Handed Bat,Right-arm fast-medium,Bowler,1993.0
+R McLaren,1628,Left Handed Bat,Right-arm fast-medium,Bowling Allrounder,1983.0
+R Vinay Kumar,32786,Left Handed Bat,Left-arm fast-medium,Bowler,1996.0
+RA Harper,4189,Right Handed Bat,Right-arm offbreak,Batsman,1963.0
+RJ Ratnayake,3521,Right Handed Bat,Right-arm fast-medium,Batsman,1964.0
+RJ Shastri,3849,Right Handed Bat,Left-arm orthodox,Batsman,1962.0
+RK Kleinveldt,1627,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,1983.0
+RL Johnson,5449,Right Handed Bat,Right-arm medium,Batsman,1974.0
+RM Hogg,4676,Right Handed Bat,Right-arm fast,Batsman,1951.0
+RMH Binny,3843,Right Handed Bat,Right-arm medium,Batsman,1955.0
+RO Collinge,3993,Right Handed Bat,Left-arm fast-medium,Batsman,1946.0
+SI Mahmood,10394,Right Handed Bat,Right-arm fast-medium,Bowler,1997.0
+SL Boock,4018,Right Handed Bat,Left-arm orthodox,Batsman,1951.0
+SLV Raju,1431171,Right Handed Bat,Right-arm fast-medium,Bowler,1999.0
+SM Boland,8631,Right Handed Bat,Right-arm fast-medium,Bowler,1989.0
+SR Tendulkar,25,Right Handed Bat,Right-arm legbreak,Batsman,1973.0
+Saleem Jaffar,3693,Right Handed Bat,Left-arm fast-medium,Batsman,1962.0
+Sarfraz Nawaz,11392,Right Handed Bat,,WK-Batsman,1994.0
+Sikander Bakht,3659,Right Handed Bat,Right-arm fast-medium,Batsman,1957.0
+Simranjeet Singh,10919,Right Handed Bat,Right-arm medium,Batting Allrounder,1991.0
+Sir RJ Hadlee,3997,Left Handed Bat,Right-arm fast,Batsman,1951.0
+TG Hogan,4695,Right Handed Bat,Left-arm orthodox,Batsman,1956.0
+TM Alderman,4689,Right Handed Bat,Right-arm fast-medium,Batsman,1956.0
+Tahir Naqqash,3671,Right Handed Bat,,Batsman,1959.0
+Tauseef Ahmed,11342,Right Handed Bat,Right-arm fast-medium,Bowler,1997.0
+UWMBCA Welegedara,1056,Right Handed Bat,Left-arm fast-medium,Bowling Allrounder,1981.0
+Umran Malik,19027,Right Handed Bat,Right-arm fast,Bowler,1999.0
+Usman Shinwari,9698,Right Handed Bat,Left-arm fast-medium,Bowler,1994.0
+VA Holder,4154,Right Handed Bat,Right-arm fast-medium,Batsman,1945.0
+VC Drakes,4219,Right Handed Bat,Right-arm fast,Batsman,1969.0
+VJ Marks,5346,Right Handed Bat,Right-arm offbreak,Batsman,1955.0
+VR Aaron,6293,Right Handed Bat,Right-arm fast,Bowler,1989.0
+WW Daniel,4173,Right Handed Bat,Right-arm fast,Batsman,1956.0
+WW Davis,10443,Right Handed Bat,Left-arm fast-medium,Bowler,1996.0
+Wasim Akram,3688,Left Handed Bat,Left-arm fast,Bowling Allrounder,1966.0
+Wasim Raja,3646,Left Handed Bat,Right-arm legbreak,Batsman,1952.0
+XC Bartlett,11689,Right Handed Bat,Right-arm fast-medium,Bowler,1998.0

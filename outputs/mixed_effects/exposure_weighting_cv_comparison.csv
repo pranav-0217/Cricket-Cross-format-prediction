@@ -1,0 +1,9 @@
+model,outcome,fit,exposure,r2_unweighted,r2_weighted
+batting,batting average,unweighted,w_avg,0.4877,0.4251
+batting,batting average,weighted,w_avg,0.5132,0.5521
+batting,batting strike rate,unweighted,w_sr,0.7276,0.8317
+batting,batting strike rate,weighted,w_sr,0.7304,0.8461
+bowling,bowling economy,unweighted,w_econ,0.9106,0.9129
+bowling,bowling economy,weighted,w_econ,0.905,0.9125
+bowling,bowling average,unweighted,w_bavg,0.3262,0.2185
+bowling,bowling average,weighted,w_bavg,0.2984,0.293

@@ -1,0 +1,17 @@
+model,outcome,specification,r2_log_scale,r2_original_scale,delta_vs_no_age,folds
+batting,batting average,no age,0.4768,0.4542,0.0,5
+batting,batting average,linear age,0.4915,0.4858,0.0316,5
+batting,batting average,linear + hinge,0.4925,0.4877,0.0335,5
+batting,batting average,natural cubic (df=4),0.4919,0.4868,0.0326,5
+batting,batting strike rate,no age,0.6983,0.7186,0.0,5
+batting,batting strike rate,linear age,0.7069,0.728,0.0095,5
+batting,batting strike rate,linear + hinge,0.7069,0.7276,0.009,5
+batting,batting strike rate,natural cubic (df=4),0.7067,0.7274,0.0089,5
+bowling,bowling economy,no age,0.9089,0.9117,0.0,5
+bowling,bowling economy,linear age,0.9089,0.9107,-0.001,5
+bowling,bowling economy,linear + hinge,0.9088,0.9106,-0.0011,5
+bowling,bowling economy,natural cubic (df=4),0.9088,0.9106,-0.0011,5
+bowling,bowling average,no age,0.3538,0.3246,0.0,5
+bowling,bowling average,linear age,0.3549,0.3278,0.0032,5
+bowling,bowling average,linear + hinge,0.3532,0.3262,0.0016,5
+bowling,bowling average,natural cubic (df=4),0.3512,0.3239,-0.0007,5

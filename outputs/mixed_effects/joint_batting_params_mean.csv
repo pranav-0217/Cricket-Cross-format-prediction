@@ -1,0 +1,2 @@
+alpha_log_avg (Test baseline),alpha_log_sr  (Test baseline),beta_odi_log_avg,beta_t20_log_avg,beta_odi_log_sr,beta_t20_log_sr,"player_corr(avg,sr)","residual_corr(avg,sr)"
+3.067900927935077,3.8189740807781316,-0.09619195753740317,-0.3290720639948283,0.4537022221355667,0.8643787861524991,0.6235767926426548,0.47477427969396

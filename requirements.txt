@@ -1,0 +1,21 @@
+# Python 3.12
+
+# Data handling
+pandas>=2.2
+numpy>=2.0
+
+# Bayesian and mixed-effects modeling
+pymc>=6.2
+arviz>=1.2
+pytensor>=2.25
+statsmodels>=0.14
+patsy>=0.5
+scikit-learn>=1.6
+
+# Scientific utilities and plotting
+scipy>=1.11
+matplotlib>=3.10
+
+# NetCDF trace storage and local cache configuration
+netCDF4>=1.7
+platformdirs>=4.0

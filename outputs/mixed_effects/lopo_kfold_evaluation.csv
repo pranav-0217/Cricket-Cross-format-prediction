@@ -1,0 +1,25 @@
+evaluation,metric_set,R2,MAE,RMSE,MAPE,n_pairs
+5-fold leakage-free,LOPO fixed-effects only | avg,0.5381,6.073,8.0206,39.35,4036
+5-fold leakage-free,LOPO fixed-effects only | sr,0.7404,11.8211,16.2916,17.55,4036
+5-fold leakage-free,LOPO direct conversion | avg,0.418,6.6155,9.003,39.91,4036
+5-fold leakage-free,LOPO direct conversion | sr,0.6546,13.0276,18.7922,18.31,4036
+5-fold leakage-free,LOPO direct k-NN | avg,0.4774,6.4295,8.5313,40.34,4036
+5-fold leakage-free,LOPO direct k-NN | sr,0.7542,11.4576,15.8543,16.65,4036
+5-fold leakage-free,LOPO + k-NN transfer | avg,0.6041,5.547,7.4257,35.54,4036
+5-fold leakage-free,LOPO + k-NN transfer | sr,0.7792,10.6591,15.0269,15.82,4036
+5-fold leakage-free,"LOPO own record, shrunk | avg",0.613,5.488,7.3412,35.34,4036
+5-fold leakage-free,"LOPO own record, shrunk | sr",0.7767,10.7521,15.1107,15.9,4036
+5-fold leakage-free,LOPO k-NN + own record | avg,0.6135,5.4785,7.3371,35.25,4036
+5-fold leakage-free,LOPO k-NN + own record | sr,0.7805,10.6347,14.9793,15.77,4036
+5-fold leakage-free,LOPO fixed-effects only | econ,0.9137,0.4226,0.5528,8.74,2306
+5-fold leakage-free,LOPO fixed-effects only | bowl_avg,0.3116,5.7513,7.9632,18.58,2306
+5-fold leakage-free,LOPO direct conversion | econ,0.8697,0.5037,0.6793,10.35,2306
+5-fold leakage-free,LOPO direct conversion | bowl_avg,-0.0803,7.2282,9.9759,23.89,2306
+5-fold leakage-free,LOPO direct k-NN | econ,0.8942,0.4566,0.6122,9.35,2306
+5-fold leakage-free,LOPO direct k-NN | bowl_avg,0.2383,6.0939,8.3769,19.83,2306
+5-fold leakage-free,LOPO + k-NN transfer | econ,0.9213,0.4018,0.5281,8.33,2306
+5-fold leakage-free,LOPO + k-NN transfer | bowl_avg,0.3383,5.6071,7.8074,18.04,2306
+5-fold leakage-free,"LOPO own record, shrunk | econ",0.9216,0.4014,0.527,8.34,2306
+5-fold leakage-free,"LOPO own record, shrunk | bowl_avg",0.3485,5.5528,7.7468,17.84,2306
+5-fold leakage-free,LOPO k-NN + own record | econ,0.9217,0.401,0.5266,8.33,2306
+5-fold leakage-free,LOPO k-NN + own record | bowl_avg,0.3457,5.5697,7.7638,17.91,2306
