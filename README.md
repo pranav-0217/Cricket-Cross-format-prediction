@@ -38,7 +38,7 @@ python EvaluateBatting.py
 python EvaluateBowling.py
 
 # 4. Held-out evaluation and sensitivity checks
-python EvaluateKFold.py --plot
+python EvaluateKFold.py --plot --k-check
 python EvaluateAgeCurve.py
 python EvaluateExposure.py
 
@@ -48,27 +48,33 @@ python ModelDiagnostics.py
 python PlayerRankings.py
 python AgeCurve.py
 python BuildExports.py
+python PaperFigures.py
 ```
 
 Step 4 is the longest stage: `EvaluateKFold.py` refits ten models, five folds
 per family, so that no held-out player influences the model predicting them.
 If the fold fits already exist, rerun the scoring alone with
-`python EvaluateKFold.py --skip-fits --plot`.
+`python EvaluateKFold.py --skip-fits --plot --k-check`. Each held-out prediction
+uses nothing from the player's target-format record: debut year, age at debut
+and career-midpoint age all come from the format the player has already played.
+
+`PaperFigures.py` draws the paper's five figures at their printed size and
+needs the enriched traces from step 2 and the fold predictions from step 4.
 
 The enriched bowling model uses the longer sampling run shown above to keep all
 R-hat values below 1.01. Sampling uses one core for cross-platform reliability.
 
 ## Where the paper's numbers come from
 
-| Paper item | File |
-|---|---|
-| Held-out evaluation table | `outputs/mixed_effects/lopo_kfold_evaluation.csv` |
-| Format effects | `outputs/mixed_effects/format_effects_summary.csv` |
-| Raw outcomes by format | `outputs/sr_vs_avg_by_format.png`, `outputs/bowling_econ_vs_avg_by_format.png` |
-| Format-effect posteriors | `outputs/plots/format_effects_posterior.png` |
-| Age spline | `outputs/plots/age_curve_simple.png` |
-| Held-out predictions | `outputs/plots/cross_format_transition_kfold.png` |
-| Player random effects | `outputs/plots/player_random_effects.png` |
+| Paper item | Script | File |
+|---|---|---|
+| Tables 1 and 2, country effects (94% HDI) | `PaperFigures.py` | `outputs/mixed_effects/enriched_effects_pct.csv` |
+| Table 3, in-sample rows | `EvaluateBatting.py`, `EvaluateBowling.py` | `outputs/mixed_effects/batting_model_evaluation.csv`, `bowling_model_evaluation.csv` |
+| Table 3, held-out rows | `EvaluateKFold.py` | `outputs/mixed_effects/lopo_kfold_evaluation.csv` |
+| Player rankings | `FitBatting.py`, `FitBowling.py` | `outputs/mixed_effects/batting_player_rankings.csv`, `bowling_player_rankings.csv` |
+| Results in each of the five folds | `EvaluateKFold.py` | `outputs/mixed_effects/lopo_kfold_by_fold.csv` |
+| k-NN with k = 5, 20 or 30 | `EvaluateKFold.py --k-check` | `outputs/mixed_effects/knn_k_sensitivity.csv` |
+| Figures 1 to 5 | `PaperFigures.py` | `outputs/paper_figures/`, named as in the paper |
 
 `ResidualExposure.py` defines the exposure-weighted residual likelihood shared
 by all four models. `TransferMethods.py` holds the transfer and scoring
@@ -79,8 +85,9 @@ format they have not played. Neither is needed to reproduce the paper.
 
 ## Data sources
 
-Career-format statistics, country and debut year were collected from
-[ESPN Cricinfo](https://www.espncricinfo.com/). Player metadata are principally
-ESPN-derived, with [Cricbuzz](https://www.cricbuzz.com/) as a verified fallback
-for historical players with incomplete records. Both sources are publicly
-accessible.
+Career-format statistics, country and debut year come from ESPNcricinfo's
+[Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) database.
+Player details come mainly from the
+[cricketdata](https://CRAN.R-project.org/package=cricketdata) R package, which
+compiles them from ESPNcricinfo, with gaps filled from ESPN's player records,
+[Cricbuzz](https://www.cricbuzz.com/) and Wikipedia.

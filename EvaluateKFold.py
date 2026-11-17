@@ -1,4 +1,8 @@
-"""Leakage-free K-fold evaluation of the k-NN latent transfer."""
+"""Leakage-free K-fold evaluation of the k-NN latent transfer.
+
+A held-out prediction uses nothing from the player's target-format record: debut
+year, age at debut and career-midpoint age all come from the known format.
+"""
 
 from __future__ import annotations
 
@@ -10,12 +14,15 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+from sklearn.metrics import r2_score
 
 from TransferMethods import run_lopo_methods, summarize_methods
 
 DATA_DIR = Path("Data/new/processed")
 OUT_DIR = Path("outputs") / "mixed_effects"
 FOLD_DIR = Path("outputs") / "kfold"
+FORMAT_DUMMIES = {"Test": (0, 0), "ODI": (1, 0), "T20": (0, 1)}
+K_CHECK = (5, 20, 30)
 
 FAMILIES = {
     "batting": {"script": "FitBattingEnriched.py",
@@ -44,6 +51,8 @@ def parse_args() -> argparse.Namespace:
                    help="also write the predicted-vs-actual transition figure "
                         "from the pooled fold predictions, so the figure and the "
                         "table describe the same evaluation")
+    p.add_argument("--k-check", action="store_true",
+                   help=f"also score the k-NN transfer at k = {', '.join(map(str, K_CHECK))}")
     return p.parse_args()
 
 def make_folds(player_ids: np.ndarray, k: int, seed: int) -> list[np.ndarray]:
@@ -53,15 +62,32 @@ def make_folds(player_ids: np.ndarray, k: int, seed: int) -> list[np.ndarray]:
 
 def fold_fixed_effects(kind: str, joint: pd.DataFrame, suffix: str,
                        labels: tuple[str, str]) -> pd.DataFrame:
-    """alpha + X.beta per row, from this fold's fitted parameters."""
+    """alpha + X.beta per row, from this fold's fitted parameters.
+
+    fe{n}_row uses each row's own covariates and scores the training pool.
+    fe{n}_as_<format> is what a prediction from this row may use: debut year and
+    age at debut from this format's debut, and the format indicators of <format>.
+    """
     meta = json.loads((DATA_DIR / f"{kind}_joint_enriched_meta.json").read_text())
     preds = meta["predictors"]
     params = pd.read_csv(OUT_DIR / f"joint_{kind}_enriched_params_mean{suffix}.csv").iloc[0]
     X = joint[preds].to_numpy(dtype=float)
+    known = X.copy()
+    # PrepareData's standardisation is linear in the raw value, so refit it to rescale.
+    for col, raw in (("debut_year_scaled", joint["debut_year_raw"]),
+                     ("age_at_debut_scaled", joint["debut_year_raw"] - joint["born_year"])):
+        slope, intercept = np.polyfit(joint[col.removesuffix("_scaled")], joint[col], 1)
+        known[:, preds.index(col)] = intercept + slope * raw.to_numpy(dtype=float)
+    i_odi, i_t20 = preds.index("format_odi"), preds.index("format_t20")
     joint = joint.copy()
-    for tag, lab in (("fe1_row", labels[0]), ("fe2_row", labels[1])):
+    for n, lab in ((1, labels[0]), (2, labels[1])):
+        alpha = float(params[f"alpha_{lab}"])
         beta = np.array([float(params[f"beta_{p}_{lab}"]) for p in preds])
-        joint[tag] = float(params[f"alpha_{lab}"]) + X @ beta
+        joint[f"fe{n}_row"] = alpha + X @ beta
+        for fmt, (odi, t20) in FORMAT_DUMMIES.items():
+            as_fmt = known.copy()
+            as_fmt[:, i_odi], as_fmt[:, i_t20] = odi, t20
+            joint[f"fe{n}_as_{fmt}"] = alpha + as_fmt @ beta
     return joint
 
 def fold_own_record(kind: str, joint: pd.DataFrame, suffix: str,
@@ -74,13 +100,17 @@ def fold_own_record(kind: str, joint: pd.DataFrame, suffix: str,
         w = joint[meta["exposure"]["columns"][f"y{n}"]]
         ability = params[f"chol_u_stds_{lab}"] ** 2
         luck = params[f"sigma_sampling_{lab}"] ** 2 / w + params[f"sigma_real_{lab}"] ** 2
-        joint[f"own{n}_row"] = ability / (ability + luck) * (joint[f"y{n}"] - joint[f"fe{n}_row"])
+        fe_own = np.select([joint["format"] == f for f in FORMAT_DUMMIES],
+                           [joint[f"fe{n}_as_{f}"] for f in FORMAT_DUMMIES])
+        joint[f"own{n}_row"] = ability / (ability + luck) * (joint[f"y{n}"] - fe_own)
     return joint
 
 def main() -> None:
     args = parse_args()
     FOLD_DIR.mkdir(parents=True, exist_ok=True)
     results: dict[str, pd.DataFrame] = {}
+    fold_inputs: dict[str, list] = {}
+    by_fold: list[dict] = []
 
     for kind, cfg in FAMILIES.items():
         data = pd.read_csv(DATA_DIR / f"{kind}_joint_enriched.csv")
@@ -92,7 +122,7 @@ def main() -> None:
         print(f"\n{'='*70}\n{kind.upper()}: {args.folds} folds over "
               f"{data['player_id'].nunique():,} players\n{'='*70}")
 
-        per_fold = []
+        per_fold, fold_inputs[kind] = [], []
         for i, held in enumerate(folds):
             suffix = f"_fold{i}"
             exclude = FOLD_DIR / f"{kind}_fold{i}_holdout.txt"
@@ -119,14 +149,12 @@ def main() -> None:
             pool = scored[scored["player_id"].isin(train_ids)]
             queries = scored[scored["player_id"].isin(set(held))]
 
-            res = run_lopo_methods(
-                f"{kind} fold {i}",
-                pd.concat([queries, pool], ignore_index=True),
-                psi, psi1=cfg["psi"][0], psi2=cfg["psi"][1],
-                raw1=cfg["raw"][0], raw2=cfg["raw"][1], k=args.k,
-                restrict_to=set(held), pool_ids=train_ids,
-            )
+            fold_inputs[kind].append((pd.concat([queries, pool], ignore_index=True),
+                                      psi, set(held), train_ids))
+            res = score_fold(kind, cfg, *fold_inputs[kind][-1], k=args.k, label=f"fold {i}")
             per_fold.append(res)
+            by_fold += [{"model": kind, "fold": i, **row}
+                        for row in summarize_methods(res, *cfg["raw"])]
             print(f"   fold {i}: {len(res)} held-out transition pairs")
 
         results[kind] = pd.concat(per_fold, ignore_index=True)
@@ -147,53 +175,41 @@ def main() -> None:
         pred_path = OUT_DIR / f"lopo_kfold_predictions_{kind}.csv"
         res.to_csv(pred_path, index=False)
         print(f"Saved: {pred_path}")
+    fold_path = OUT_DIR / "lopo_kfold_by_fold.csv"
+    pd.DataFrame(by_fold).to_csv(fold_path, index=False)
+    print(f"Saved: {fold_path}")
+
+    if args.k_check:
+        check_k(fold_inputs, args.k)
 
     if args.plot:
-        plot_transitions(bat, bowl)
+        from PaperFigures import transitions
+        transitions(bat, bowl, Path("outputs") / "plots" / "cross_format_transition_kfold.png")
 
-def plot_transitions(bat: pd.DataFrame, bowl: pd.DataFrame) -> None:
-    """Predicted vs actual by target format, from the pooled fold predictions."""
-    import matplotlib
-    matplotlib.use("Agg")
-    import matplotlib.pyplot as plt
+def score_fold(kind: str, cfg: dict, frame: pd.DataFrame, psi: pd.DataFrame,
+               held: set, train_ids: set, k: int, label: str) -> pd.DataFrame:
+    return run_lopo_methods(f"{kind} {label}", frame, psi,
+                            psi1=cfg["psi"][0], psi2=cfg["psi"][1],
+                            raw1=cfg["raw"][0], raw2=cfg["raw"][1], k=k,
+                            restrict_to=held, pool_ids=train_ids)
 
-    plot_dir = Path("outputs") / "plots"
-    plot_dir.mkdir(parents=True, exist_ok=True)
-    colours = {"Test": "#1976D2", "ODI": "#388E3C", "T20": "#F57C00"}
-    fig, axes = plt.subplots(4, 3, figsize=(16, 19))
-
-    print("\n=== Pearson r, leakage-free folds ===")
-    for col, fmt in enumerate(["Test", "ODI", "T20"]):
-        b = bat[bat["target_format"] == fmt]
-        w = bowl[bowl["target_format"] == fmt]
-        panels = [
-            (axes[0, col], b["true1"], b["knn1"],
-             f"Batting Avg -- {fmt}", "Actual avg", "Predicted avg"),
-            (axes[1, col], b["true2"], b["knn2"],
-             f"Batting SR -- {fmt}", "Actual SR", "Predicted SR"),
-            (axes[2, col], w["true1"], w["knn1"],
-             f"Bowling Economy -- {fmt}", "Actual economy", "Predicted economy"),
-            (axes[3, col], w["true2"], w["knn2"],
-             f"Bowling Avg -- {fmt}", "Actual avg", "Predicted avg"),
-        ]
-        print(f"  {fmt:5s} bat avg r={b['true1'].corr(b['knn1']):.3f}  "
-              f"bat sr r={b['true2'].corr(b['knn2']):.3f}  "
-              f"bowl econ r={w['true1'].corr(w['knn1']):.3f}  "
-              f"bowl avg r={w['true2'].corr(w['knn2']):.3f}  n={len(b)}/{len(w)}")
-        for ax, actual, pred, title, xlabel, ylabel in panels:
-            ax.scatter(actual, pred, alpha=0.5, s=18, color=colours[fmt], edgecolors="none")
-            lo = min(actual.min(), pred.min()) * 0.95
-            hi = max(actual.max(), pred.max()) * 1.05
-            ax.plot([lo, hi], [lo, hi], "k--", lw=1, alpha=0.6)
-            ax.set_title(f"{title}\nr = {actual.corr(pred):.3f}", fontsize=10, fontweight="bold")
-            ax.set_xlabel(xlabel, fontsize=9); ax.set_ylabel(ylabel, fontsize=9)
-            ax.set_xlim(lo, hi); ax.set_ylim(lo, hi); ax.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-    out_path = plot_dir / "cross_format_transition_kfold.png"
-    plt.savefig(out_path, dpi=180, bbox_inches="tight")
-    plt.close()
-    print(f"\nSaved: {out_path}")
+def check_k(fold_inputs: dict[str, list], k_main: int) -> None:
+    """Held-out R^2 of the k-NN transfer for other neighbour counts."""
+    rows = []
+    for k in sorted({k_main, *K_CHECK}):
+        row = {"k": k}
+        for kind, cfg in FAMILIES.items():
+            res = pd.concat([score_fold(kind, cfg, *inputs, k=k, label=f"k={k}")
+                             for inputs in fold_inputs[kind]], ignore_index=True)
+            for n, name in ((1, cfg["raw"][0]), (2, cfg["raw"][1])):
+                row[f"{kind}_{name}"] = round(float(r2_score(res[f"true{n}"], res[f"knn{n}"])), 4)
+        rows.append(row)
+    out = pd.DataFrame(rows)
+    print("\n=== k-NN transfer R^2 by k ===")
+    print(out.to_string(index=False))
+    path = OUT_DIR / "knn_k_sensitivity.csv"
+    out.to_csv(path, index=False)
+    print(f"Saved: {path}")
 
 if __name__ == "__main__":
     main()

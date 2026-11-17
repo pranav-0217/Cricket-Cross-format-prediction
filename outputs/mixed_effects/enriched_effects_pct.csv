@@ -1,0 +1,121 @@
+model,predictor,outcome,pct_mean,hdi_3%,hdi_97%
+batting,format_odi,Batting average,-9.1,-10.8,-7.3
+batting,format_odi,Batting strike rate,57.2,55.6,58.8
+batting,format_t20,Batting average,-30.3,-32.2,-28.3
+batting,format_t20,Batting strike rate,132.3,129.0,135.8
+batting,debut_year_scaled,Batting average,8.7,6.4,11.3
+batting,debut_year_scaled,Batting strike rate,13.5,12.1,14.8
+batting,is_lefthanded,Batting average,8.4,4.4,12.5
+batting,is_lefthanded,Batting strike rate,0.7,-1.3,2.8
+batting,role_allrounder,Batting average,-16.7,-20.1,-13.1
+batting,role_allrounder,Batting strike rate,4.4,2.1,6.9
+batting,role_bowler,Batting average,-63.5,-64.9,-62.1
+batting,role_bowler,Batting strike rate,-14.4,-16.3,-12.6
+batting,age_at_debut_scaled,Batting average,-9.8,-12.1,-7.5
+batting,age_at_debut_scaled,Batting strike rate,-5.6,-6.9,-4.3
+batting,country_AFG,Batting average,-20.0,-29.1,-9.9
+batting,country_AFG,Batting strike rate,-13.9,-19.4,-7.9
+batting,country_BAN,Batting average,-27.5,-33.5,-20.5
+batting,country_BAN,Batting strike rate,-12.6,-16.7,-8.1
+batting,country_CAN,Batting average,-10.5,-22.3,2.3
+batting,country_CAN,Batting strike rate,-11.7,-17.9,-4.8
+batting,country_ENG,Batting average,-10.6,-16.9,-3.9
+batting,country_ENG,Batting strike rate,-3.9,-7.8,0.1
+batting,country_HKG,Batting average,-25.2,-37.2,-11.0
+batting,country_HKG,Batting strike rate,-18.7,-26.3,-10.7
+batting,country_IND,Batting average,-7.1,-14.7,1.2
+batting,country_IND,Batting strike rate,-2.7,-7.0,2.3
+batting,country_IRE,Batting average,-14.3,-24.1,-3.1
+batting,country_IRE,Batting strike rate,-10.1,-16.0,-3.6
+batting,country_KENYA,Batting average,-15.5,-27.3,-2.1
+batting,country_KENYA,Batting strike rate,-18.1,-24.4,-10.6
+batting,country_NAM,Batting average,-12.5,-26.2,2.7
+batting,country_NAM,Batting strike rate,-13.8,-21.3,-5.6
+batting,country_NED,Batting average,-16.9,-26.2,-5.7
+batting,country_NED,Batting strike rate,-14.4,-20.2,-8.6
+batting,country_NEP,Batting average,-18.9,-30.4,-5.6
+batting,country_NEP,Batting strike rate,-15.4,-22.7,-7.9
+batting,country_NZ,Batting average,-15.2,-21.9,-8.3
+batting,country_NZ,Batting strike rate,-8.1,-12.2,-4.0
+batting,country_OMA,Batting average,-21.7,-32.2,-8.8
+batting,country_OMA,Batting strike rate,-20.0,-26.4,-13.6
+batting,country_OTHER_OR_MULTI,Batting average,-15.1,-24.9,-4.5
+batting,country_OTHER_OR_MULTI,Batting strike rate,-10.5,-16.1,-4.5
+batting,country_PAK,Batting average,-11.3,-18.3,-3.7
+batting,country_PAK,Batting strike rate,-4.6,-8.9,-0.1
+batting,country_PNG,Batting average,-30.5,-40.7,-19.6
+batting,country_PNG,Batting strike rate,-21.0,-27.7,-14.1
+batting,country_SA,Batting average,-3.6,-11.2,4.9
+batting,country_SA,Batting strike rate,-2.5,-7.1,2.1
+batting,country_SCOT,Batting average,-10.8,-20.9,1.3
+batting,country_SCOT,Batting strike rate,-8.0,-14.4,-1.8
+batting,country_SL,Batting average,-20.7,-27.1,-13.3
+batting,country_SL,Batting strike rate,-9.1,-13.3,-4.6
+batting,country_UAE,Batting average,-11.0,-21.5,0.9
+batting,country_UAE,Batting strike rate,-13.5,-19.1,-7.5
+batting,country_USA,Batting average,-5.5,-20.9,11.1
+batting,country_USA,Batting strike rate,-8.8,-16.6,0.1
+batting,country_WI,Batting average,-22.5,-28.5,-16.3
+batting,country_WI,Batting strike rate,-7.7,-11.7,-3.5
+batting,country_ZIM,Batting average,-27.1,-32.9,-20.4
+batting,country_ZIM,Batting strike rate,-16.2,-20.1,-12.2
+batting,age_scaled,Batting average,16.7,13.4,20.1
+batting,age_scaled,Batting strike rate,7.4,5.8,9.1
+batting,age_hinge,Batting average,-9.8,-14.2,-5.2
+batting,age_hinge,Batting strike rate,-3.8,-6.3,-1.3
+bowling,format_odi,Bowling economy rate,58.0,56.5,59.6
+bowling,format_odi,Bowling average,-3.1,-4.9,-1.3
+bowling,format_t20,Bowling economy rate,135.9,132.8,139.1
+bowling,format_t20,Bowling average,-28.1,-30.0,-26.2
+bowling,debut_year_scaled,Bowling economy rate,10.1,9.4,10.8
+bowling,debut_year_scaled,Bowling average,0.0,-1.3,1.3
+bowling,bowling_hand_left,Bowling economy rate,-3.4,-4.8,-2.1
+bowling,bowling_hand_left,Bowling average,-2.1,-5.0,0.6
+bowling,bowling_type_spin,Bowling economy rate,-6.4,-7.7,-5.2
+bowling,bowling_type_spin,Bowling average,7.0,4.3,10.0
+bowling,role_allrounder,Bowling economy rate,-3.7,-5.9,-1.5
+bowling,role_allrounder,Bowling average,-6.8,-11.5,-2.4
+bowling,role_bowler,Bowling economy rate,-4.1,-6.2,-2.1
+bowling,role_bowler,Bowling average,-14.8,-18.6,-10.7
+bowling,age_at_debut_scaled,Bowling economy rate,-0.9,-1.8,0.0
+bowling,age_at_debut_scaled,Bowling average,1.8,-0.1,3.7
+bowling,country_AFG,Bowling economy rate,-7.2,-11.5,-3.0
+bowling,country_AFG,Bowling average,-1.7,-10.0,7.7
+bowling,country_BAN,Bowling economy rate,1.9,-1.4,5.3
+bowling,country_BAN,Bowling average,20.9,13.0,28.9
+bowling,country_ENG,Bowling economy rate,0.4,-2.1,2.9
+bowling,country_ENG,Bowling average,7.0,1.8,12.3
+bowling,country_IND,Bowling economy rate,2.7,0.1,5.5
+bowling,country_IND,Bowling average,7.6,2.3,13.3
+bowling,country_IRE,Bowling economy rate,-2.8,-6.7,1.2
+bowling,country_IRE,Bowling average,6.4,-2.2,15.1
+bowling,country_NED,Bowling economy rate,-8.1,-12.6,-3.5
+bowling,country_NED,Bowling average,-2.7,-12.2,7.2
+bowling,country_NZ,Bowling economy rate,0.4,-2.2,3.0
+bowling,country_NZ,Bowling average,8.7,3.2,14.2
+bowling,country_OMA,Bowling economy rate,-10.7,-15.8,-5.3
+bowling,country_OMA,Bowling average,-9.8,-19.5,2.0
+bowling,country_OTHER_OR_MULTI,Bowling economy rate,-9.1,-11.8,-6.1
+bowling,country_OTHER_OR_MULTI,Bowling average,-6.3,-12.4,-0.6
+bowling,country_PAK,Bowling economy rate,0.5,-2.1,3.2
+bowling,country_PAK,Bowling average,7.1,1.6,12.7
+bowling,country_PNG,Bowling economy rate,-13.9,-19.1,-9.3
+bowling,country_PNG,Bowling average,-2.2,-12.9,10.8
+bowling,country_SA,Bowling economy rate,0.8,-2.1,3.6
+bowling,country_SA,Bowling average,1.1,-4.3,7.0
+bowling,country_SCOT,Bowling economy rate,-6.3,-10.5,-1.6
+bowling,country_SCOT,Bowling average,-4.6,-13.2,4.9
+bowling,country_SL,Bowling economy rate,4.1,1.4,6.9
+bowling,country_SL,Bowling average,16.5,10.7,22.9
+bowling,country_UAE,Bowling economy rate,-12.6,-17.1,-8.1
+bowling,country_UAE,Bowling average,-8.0,-17.0,1.9
+bowling,country_USA,Bowling economy rate,-12.0,-17.0,-6.7
+bowling,country_USA,Bowling average,-10.5,-20.6,0.9
+bowling,country_WI,Bowling economy rate,0.5,-2.0,3.1
+bowling,country_WI,Bowling average,6.8,1.6,12.5
+bowling,country_ZIM,Bowling economy rate,0.8,-2.2,3.9
+bowling,country_ZIM,Bowling average,22.9,15.7,31.0
+bowling,age_scaled,Bowling economy rate,-1.6,-2.7,-0.6
+bowling,age_scaled,Bowling average,-3.4,-5.4,-1.2
+bowling,age_hinge,Bowling economy rate,1.3,-0.6,3.2
+bowling,age_hinge,Bowling average,-0.4,-4.2,3.5

@@ -1,0 +1,121 @@
+model,fold,metric_set,R2,MAE,RMSE,MAPE,n_pairs
+batting,0,LOPO fixed-effects only | avg,0.4932,6.2231,8.2041,39.96,806
+batting,0,LOPO fixed-effects only | sr,0.7395,11.4016,15.5626,17.43,806
+batting,0,LOPO direct conversion | avg,0.4058,6.5682,8.8829,40.09,806
+batting,0,LOPO direct conversion | sr,0.6653,12.1781,17.6396,17.51,806
+batting,0,LOPO direct k-NN | avg,0.459,6.314,8.476,40.58,806
+batting,0,LOPO direct k-NN | sr,0.754,10.8587,15.121,16.28,806
+batting,0,LOPO + k-NN transfer | avg,0.5818,5.566,7.4527,35.56,806
+batting,0,LOPO + k-NN transfer | sr,0.7822,10.2377,14.2273,15.61,806
+batting,0,"LOPO own record, shrunk | avg",0.594,5.5024,7.3431,35.46,806
+batting,0,"LOPO own record, shrunk | sr",0.7778,10.3235,14.3733,15.71,806
+batting,0,LOPO k-NN + own record | avg,0.5923,5.4999,7.3583,35.32,806
+batting,0,LOPO k-NN + own record | sr,0.783,10.1887,14.2018,15.56,806
+batting,1,LOPO fixed-effects only | avg,0.4685,6.3514,8.468,39.41,770
+batting,1,LOPO fixed-effects only | sr,0.7335,12.6493,16.9347,18.93,770
+batting,1,LOPO direct conversion | avg,0.3128,6.7704,9.6283,38.74,770
+batting,1,LOPO direct conversion | sr,0.7152,12.7379,17.5051,17.44,770
+batting,1,LOPO direct k-NN | avg,0.4391,6.4216,8.6988,38.74,770
+batting,1,LOPO direct k-NN | sr,0.7788,11.5058,15.4261,16.8,770
+batting,1,LOPO + k-NN transfer | avg,0.54,5.7615,7.8776,35.2,770
+batting,1,LOPO + k-NN transfer | sr,0.7891,11.1484,15.0625,16.64,770
+batting,1,"LOPO own record, shrunk | avg",0.5548,5.6837,7.7502,35.1,770
+batting,1,"LOPO own record, shrunk | sr",0.791,11.0708,14.9974,16.42,770
+batting,1,LOPO k-NN + own record | avg,0.5536,5.6827,7.7608,34.91,770
+batting,1,LOPO k-NN + own record | sr,0.7921,11.0585,14.9548,16.46,770
+batting,2,LOPO fixed-effects only | avg,0.5359,6.1761,8.2839,38.06,798
+batting,2,LOPO fixed-effects only | sr,0.7559,11.0537,15.4646,16.53,798
+batting,2,LOPO direct conversion | avg,0.5185,6.3981,8.437,38.49,798
+batting,2,LOPO direct conversion | sr,0.663,12.0284,18.1724,17.36,798
+batting,2,LOPO direct k-NN | avg,0.5281,6.335,8.353,39.65,798
+batting,2,LOPO direct k-NN | sr,0.7548,11.044,15.5007,16.22,798
+batting,2,LOPO + k-NN transfer | avg,0.6345,5.5001,7.3506,34.07,798
+batting,2,LOPO + k-NN transfer | sr,0.7832,9.9784,14.5744,14.93,798
+batting,2,"LOPO own record, shrunk | avg",0.6489,5.4119,7.2052,33.77,798
+batting,2,"LOPO own record, shrunk | sr",0.7848,10.0542,14.5196,14.97,798
+batting,2,LOPO k-NN + own record | avg,0.6466,5.4202,7.2285,33.75,798
+batting,2,LOPO k-NN + own record | sr,0.7866,9.9468,14.4617,14.86,798
+batting,3,LOPO fixed-effects only | avg,0.5554,5.7749,7.4615,34.54,818
+batting,3,LOPO fixed-effects only | sr,0.7243,12.2485,17.1752,17.52,818
+batting,3,LOPO direct conversion | avg,0.4028,6.44,8.6476,36.31,818
+batting,3,LOPO direct conversion | sr,0.655,13.4313,19.2135,18.9,818
+batting,3,LOPO direct k-NN | avg,0.4665,6.1678,8.1734,35.87,818
+batting,3,LOPO direct k-NN | sr,0.7541,11.7953,16.222,16.89,818
+batting,3,LOPO + k-NN transfer | avg,0.5941,5.4527,7.1297,31.92,818
+batting,3,LOPO + k-NN transfer | sr,0.7775,11.0311,15.4292,16.04,818
+batting,3,"LOPO own record, shrunk | avg",0.5935,5.433,7.1345,31.96,818
+batting,3,"LOPO own record, shrunk | sr",0.7751,11.1975,15.5121,16.36,818
+batting,3,LOPO k-NN + own record | avg,0.5987,5.4046,7.0884,31.76,818
+batting,3,LOPO k-NN + own record | sr,0.7794,11.0489,15.3658,16.13,818
+batting,4,LOPO fixed-effects only | avg,0.5237,6.4035,8.5344,42.8,844
+batting,4,LOPO fixed-effects only | sr,0.7206,12.4435,17.1046,17.25,844
+batting,4,LOPO direct conversion | avg,0.3905,7.0613,9.6541,46.01,844
+batting,4,LOPO direct conversion | sr,0.5998,14.1649,20.4714,19.67,844
+batting,4,LOPO direct k-NN | avg,0.4788,6.89,8.9271,46.57,844
+batting,4,LOPO direct k-NN | sr,0.7285,12.0492,16.8617,17.05,844
+batting,4,LOPO + k-NN transfer | avg,0.5903,5.8557,7.9153,39.86,844
+batting,4,LOPO + k-NN transfer | sr,0.7557,11.3007,15.9958,15.95,844
+batting,4,"LOPO own record, shrunk | avg",0.6031,5.7433,7.7907,39.25,844
+batting,4,"LOPO own record, shrunk | sr",0.7579,11.1721,15.9222,15.79,844
+batting,4,LOPO k-NN + own record | avg,0.6007,5.7627,7.8136,39.4,844
+batting,4,LOPO k-NN + own record | sr,0.7592,11.1541,15.8802,15.77,844
+bowling,0,LOPO fixed-effects only | econ,0.8978,0.4115,0.5789,8.67,438
+bowling,0,LOPO fixed-effects only | avg,0.364,5.5375,7.5091,18.51,438
+bowling,0,LOPO direct conversion | econ,0.8619,0.4986,0.673,10.38,438
+bowling,0,LOPO direct conversion | avg,-0.0503,7.1009,9.6501,23.61,438
+bowling,0,LOPO direct k-NN | econ,0.89,0.4316,0.6006,9.05,438
+bowling,0,LOPO direct k-NN | avg,0.2578,5.9695,8.1118,19.57,438
+bowling,0,LOPO + k-NN transfer | econ,0.9082,0.3879,0.5485,8.13,438
+bowling,0,LOPO + k-NN transfer | avg,0.3742,5.4912,7.4486,18.14,438
+bowling,0,"LOPO own record, shrunk | econ",0.908,0.3875,0.5492,8.14,438
+bowling,0,"LOPO own record, shrunk | avg",0.395,5.366,7.3242,17.75,438
+bowling,0,LOPO k-NN + own record | econ,0.9083,0.387,0.5482,8.12,438
+bowling,0,LOPO k-NN + own record | avg,0.3868,5.4223,7.3736,17.92,438
+bowling,1,LOPO fixed-effects only | econ,0.9217,0.4015,0.5133,8.57,434
+bowling,1,LOPO fixed-effects only | avg,0.3556,5.5878,7.6717,18.61,434
+bowling,1,LOPO direct conversion | econ,0.8813,0.4802,0.6318,10.26,434
+bowling,1,LOPO direct conversion | avg,0.0846,6.6785,9.1437,21.97,434
+bowling,1,LOPO direct k-NN | econ,0.8972,0.4538,0.5881,9.74,434
+bowling,1,LOPO direct k-NN | avg,0.309,5.8898,7.944,19.38,434
+bowling,1,LOPO + k-NN transfer | econ,0.9292,0.386,0.4879,8.29,434
+bowling,1,LOPO + k-NN transfer | avg,0.4041,5.3235,7.3773,17.55,434
+bowling,1,"LOPO own record, shrunk | econ",0.9292,0.3883,0.488,8.35,434
+bowling,1,"LOPO own record, shrunk | avg",0.4076,5.3437,7.3557,17.66,434
+bowling,1,LOPO k-NN + own record | econ,0.9295,0.3868,0.4869,8.31,434
+bowling,1,LOPO k-NN + own record | avg,0.4078,5.3252,7.3541,17.57,434
+bowling,2,LOPO fixed-effects only | econ,0.9149,0.441,0.5622,9.01,494
+bowling,2,LOPO fixed-effects only | avg,0.2621,6.2049,8.8259,19.89,494
+bowling,2,LOPO direct conversion | econ,0.8644,0.5254,0.7097,10.37,494
+bowling,2,LOPO direct conversion | avg,-0.0875,7.3421,10.7145,24.34,494
+bowling,2,LOPO direct k-NN | econ,0.8918,0.4762,0.6339,9.39,494
+bowling,2,LOPO direct k-NN | avg,0.2008,6.3652,9.1853,20.8,494
+bowling,2,LOPO + k-NN transfer | econ,0.9214,0.4217,0.5403,8.61,494
+bowling,2,LOPO + k-NN transfer | avg,0.3065,5.8844,8.556,18.81,494
+bowling,2,"LOPO own record, shrunk | econ",0.9222,0.4204,0.5378,8.59,494
+bowling,2,"LOPO own record, shrunk | avg",0.3094,5.8483,8.5385,18.58,494
+bowling,2,LOPO k-NN + own record | econ,0.9221,0.4204,0.5379,8.59,494
+bowling,2,LOPO k-NN + own record | avg,0.3102,5.85,8.5331,18.64,494
+bowling,3,LOPO fixed-effects only | econ,0.9217,0.4242,0.5364,8.84,486
+bowling,3,LOPO fixed-effects only | avg,0.2994,5.5891,7.2592,18.41,486
+bowling,3,LOPO direct conversion | econ,0.882,0.4918,0.6586,10.32,486
+bowling,3,LOPO direct conversion | avg,-0.1906,7.1849,9.4633,24.03,486
+bowling,3,LOPO direct k-NN | econ,0.9023,0.4522,0.5992,9.4,486
+bowling,3,LOPO direct k-NN | avg,0.1795,5.9537,7.856,19.68,486
+bowling,3,LOPO + k-NN transfer | econ,0.9305,0.3972,0.5053,8.37,486
+bowling,3,LOPO + k-NN transfer | avg,0.3138,5.5574,7.1845,18.23,486
+bowling,3,"LOPO own record, shrunk | econ",0.9313,0.3942,0.5027,8.35,486
+bowling,3,"LOPO own record, shrunk | avg",0.3286,5.4781,7.1065,17.9,486
+bowling,3,LOPO k-NN + own record | econ,0.9312,0.395,0.5029,8.34,486
+bowling,3,LOPO k-NN + own record | avg,0.324,5.5141,7.1305,18.05,486
+bowling,4,LOPO fixed-effects only | econ,0.9138,0.4282,0.5548,8.77,454
+bowling,4,LOPO fixed-effects only | avg,0.2729,6.0015,8.5019,18.49,454
+bowling,4,LOPO direct conversion | econ,0.8524,0.5245,0.7262,10.55,454
+bowling,4,LOPO direct conversion | avg,-0.2317,8.1227,11.066,26.55,454
+bowling,4,LOPO direct k-NN | econ,0.887,0.4668,0.6354,9.18,454
+bowling,4,LOPO direct k-NN | avg,0.2482,6.2642,8.6456,19.63,454
+bowling,4,LOPO + k-NN transfer | econ,0.9181,0.4134,0.5409,8.43,454
+bowling,4,LOPO + k-NN transfer | avg,0.2765,6.0022,8.4811,18.55,454
+bowling,4,"LOPO own record, shrunk | econ",0.9176,0.4132,0.5425,8.44,454
+bowling,4,"LOPO own record, shrunk | avg",0.2865,5.9558,8.4224,18.41,454
+bowling,4,LOPO k-NN + own record | econ,0.9181,0.4129,0.5409,8.42,454
+bowling,4,LOPO k-NN + own record | avg,0.2835,5.9665,8.4402,18.43,454

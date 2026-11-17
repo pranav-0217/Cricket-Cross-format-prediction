@@ -61,6 +61,17 @@ def fe_value(fe, fmt, col):
         return alpha + float(fe.loc["format_t20", col])
     raise ValueError(fmt)
 
+def pair_fixed_effects(known_row, target_row, n):
+    """Outcome-n fixed effects for the known and target formats of one pair.
+
+    Uses the prediction-time columns from EvaluateKFold.py when present, so nothing
+    from the target-format record enters the prediction.
+    """
+    target = target_row["format"]
+    if f"fe{n}_as_{target}" in known_row.index:
+        return known_row[f"fe{n}_as_{known_row['format']}"], known_row[f"fe{n}_as_{target}"]
+    return known_row[f"fe{n}_row"], target_row[f"fe{n}_row"]
+
 def run_lopo_methods(name, joint, psi, psi1, psi2, raw1, raw2, k=K_DEFAULT,
                      restrict_to=None, pool_ids=None):
     """Compute per-pair LOPO predictions for every method."""
@@ -105,8 +116,8 @@ def run_lopo_methods(name, joint, psi, psi1, psi2, raw1, raw2, k=K_DEFAULT,
 
         for known_fmt in player_formats:
             known_row = rows[rows["format"] == known_fmt].iloc[0]
-            q_res1 = known_row["y1"] - known_row["fe1_row"]
-            q_res2 = known_row["y2"] - known_row["fe2_row"]
+            q_res1 = known_row["y1"] - pair_fixed_effects(known_row, known_row, 1)[0]
+            q_res2 = known_row["y2"] - pair_fixed_effects(known_row, known_row, 2)[0]
 
             cand = by_format[known_fmt]
             cand = cand[cand["player_id"] != player_id]
@@ -135,13 +146,16 @@ def run_lopo_methods(name, joint, psi, psi1, psi2, raw1, raw2, k=K_DEFAULT,
                 if pd.isna(target_row[raw1]) or pd.isna(target_row[raw2]):
                     continue
 
+                fe_known1, fe_target1 = pair_fixed_effects(known_row, target_row, 1)
+                fe_known2, fe_target2 = pair_fixed_effects(known_row, target_row, 2)
+
                 # 1. fixed effects only (psi = 0)
-                fixed_log1 = target_row["fe1_row"]
-                fixed_log2 = target_row["fe2_row"]
+                fixed_log1 = fe_target1
+                fixed_log2 = fe_target2
 
                 # 2. direct format conversion of the player's own value
-                conv_log1 = known_row["y1"] + (target_row["fe1_row"] - known_row["fe1_row"])
-                conv_log2 = known_row["y2"] + (target_row["fe2_row"] - known_row["fe2_row"])
+                conv_log1 = known_row["y1"] + (fe_target1 - fe_known1)
+                conv_log2 = known_row["y2"] + (fe_target2 - fe_known2)
 
                 # 3. direct k-NN on log stats (neighbours need BOTH formats)
                 target_lookup = by_format_log[target_fmt]
@@ -161,12 +175,12 @@ def run_lopo_methods(name, joint, psi, psi1, psi2, raw1, raw2, k=K_DEFAULT,
                     dknn_log2 = np.nan
 
                 # 4. k-NN latent (psi) transfer -- the paper's method
-                knn_log1 = target_row["fe1_row"] + psi_hat1
-                knn_log2 = target_row["fe2_row"] + psi_hat2
+                knn_log1 = fe_target1 + psi_hat1
+                knn_log2 = fe_target2 + psi_hat2
 
                 # 5. the player's own record, shrunk by how much they have played
-                own_log1 = target_row["fe1_row"] + known_row.get("own1_row", np.nan)
-                own_log2 = target_row["fe2_row"] + known_row.get("own2_row", np.nan)
+                own_log1 = fe_target1 + known_row.get("own1_row", np.nan)
+                own_log2 = fe_target2 + known_row.get("own2_row", np.nan)
 
                 # 6. equal mix of the k-NN and own-record estimates
                 mix_log1 = (knn_log1 + own_log1) / 2
