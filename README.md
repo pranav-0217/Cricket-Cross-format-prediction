@@ -15,15 +15,13 @@ Python 3.12.
 python -m pip install -r requirements.txt
 ```
 
-Run every command from the repository root. The scripts read `Data/new/raw/`
-(career statistics) and `Data/new/external/` (player metadata), and write
-everything to `outputs/`.
+Run every command from the repository root. The scripts read the model-ready
+tables in `Data/new/processed/` and write everything to `outputs/`.
 
 ## Reproducing the analysis
 
 ```bash
-# 1. Build and check the model-ready data
-python PrepareData.py
+# 1. Check the model-ready data
 python ValidateData.py
 
 # 2. Fit the four models
@@ -50,6 +48,10 @@ python AgeCurve.py
 python BuildExports.py
 python PaperFigures.py
 ```
+
+`PrepareData.py` built the tables in `Data/new/processed/` from the raw career
+statistics and player-metadata files. The metadata files are not included, so
+the processed tables are provided instead.
 
 Step 4 is the longest stage: `EvaluateKFold.py` refits ten models, five folds
 per family, so that no held-out player influences the model predicting them.
@@ -85,9 +87,4 @@ format they have not played. Neither is needed to reproduce the paper.
 
 ## Data sources
 
-Career-format statistics, country and debut year come from ESPNcricinfo's
-[Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html) database.
-Player details come mainly from the
-[cricketdata](https://CRAN.R-project.org/package=cricketdata) R package, which
-compiles them from ESPNcricinfo, with gaps filled from ESPN's player records,
-[Cricbuzz](https://www.cricbuzz.com/) and Wikipedia.
+Career-format statistics, country, debut year and all player details come from ESPNcricinfo.
