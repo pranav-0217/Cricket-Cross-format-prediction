@@ -74,7 +74,7 @@ R-hat values below 1.01. Sampling uses one core for cross-platform reliability.
 | Player rankings | `FitBatting.py`, `FitBowling.py` | `outputs/mixed_effects/batting_player_rankings.csv`, `bowling_player_rankings.csv` |
 | Results in each of the five folds | `EvaluateKFold.py` | `outputs/mixed_effects/lopo_kfold_by_fold.csv` |
 | k-NN with k = 5, 20 or 30 | `EvaluateKFold.py --k-check` | `outputs/mixed_effects/knn_k_sensitivity.csv` |
-| Figures 1 to 5 | `PaperFigures.py` | `outputs/paper_figures/`, named as in the paper |
+| Figures 1 to 5 | `PaperFigures.py` | `outputs/paper_figures/`, named as in the paper (Figures 3 and 4 as PDF) |
 
 `ResidualExposure.py` defines the exposure-weighted residual likelihood shared
 by all four models. `TransferMethods.py` holds the transfer and scoring

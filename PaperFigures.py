@@ -1,5 +1,5 @@
-"""Every figure in the paper at its printed size, plus the percent-change table
-behind Tables 1 and 2. Run after the four fits and EvaluateKFold.py."""
+"""Every figure in the paper, plus the percent-change table behind Tables 1 and 2.
+Run after the four fits and EvaluateKFold.py."""
 
 from __future__ import annotations
 
@@ -30,6 +30,14 @@ STYLE = {"font.size": 19, "axes.titlesize": 23, "axes.labelsize": 20,
          "font.family": "serif", "font.serif": ["cmr10"],
          "mathtext.fontset": "cm", "axes.formatter.use_mathtext": True}
 CLEAN = {**STYLE, "axes.edgecolor": MUTED, "xtick.color": MUTED, "ytick.color": MUTED,
+         "axes.spines.top": False, "axes.spines.right": False}
+# Figures 3 and 4 are drawn at their printed size and saved as vector PDFs.
+PRINT = {"font.size": 9, "axes.titlesize": 10, "axes.labelsize": 9,
+         "font.family": "serif", "font.serif": ["cmr10"], "mathtext.fontset": "cm",
+         "axes.formatter.use_mathtext": True, "pdf.fonttype": 42,
+         "axes.linewidth": 0.6, "xtick.major.width": 0.6, "ytick.major.width": 0.6,
+         "xtick.major.size": 2.5, "ytick.major.size": 2.5,
+         "axes.edgecolor": MUTED, "xtick.color": MUTED, "ytick.color": MUTED,
          "axes.spines.top": False, "axes.spines.right": False}
 
 
@@ -122,9 +130,9 @@ def format_posteriors() -> None:
 
 
 def age_curve() -> None:
-    """Figure 3: fitted one-knot age spline with 94% bands."""
-    with plt.rc_context(CLEAN):
-        fig, axes = plt.subplots(2, 2, figsize=(WIDTH, 9.6), layout="constrained")
+    """Figure 3: fitted one-knot age spline with 94% bands, 5.0 x 3.3 in."""
+    with plt.rc_context({**PRINT, "xtick.labelsize": 8, "ytick.labelsize": 8}):
+        fig, axes = plt.subplots(2, 2, figsize=(5.0, 3.3), layout="constrained")
         for col, (kind, labels) in enumerate(FAMILIES.items()):
             meta = json.loads((DATA_DIR / f"{kind}_joint_enriched_meta.json").read_text())
             preds, knot = meta["predictors"], float(meta["age_curve"]["knot_age_years"])
@@ -136,60 +144,65 @@ def age_curve() -> None:
             for row, label in enumerate(labels):
                 ax = axes[row, col]
                 b_age, b_hin = beta[:, row, ia], beta[:, row, ih]
-                eta = (b_age[:, None] * ((ages - knot) / sd_age)[None, :]
-                       + b_hin[:, None] * (np.maximum(0.0, ages - knot) / sd_age)[None, :])
-                draws = pct(eta)
+                draws = pct(b_age[:, None] * ((ages - knot) / sd_age)[None, :]
+                            + b_hin[:, None] * (np.maximum(0.0, ages - knot) / sd_age)[None, :])
                 lo, hi = np.percentile(draws, [3, 97], axis=0)
                 ax.fill_between(ages, lo, hi, color=COLOURS["Test"], alpha=0.18, lw=0)
-                ax.plot(ages, draws.mean(0), color=COLOURS["Test"], lw=2.5)
-                ax.axvline(knot, color=INK, ls="--", lw=1.2, alpha=0.7)
-                ax.axhline(0, color=MUTED, lw=0.8, alpha=0.5)
-                ax.grid(alpha=0.25)
+                ax.plot(ages, draws.mean(0), color=COLOURS["Test"], lw=1.4)
+                ax.axvline(knot, color=INK, ls="--", lw=0.7, alpha=0.7)
+                ax.axhline(0, color=MUTED, lw=0.5, alpha=0.6)
+                ax.grid(alpha=0.25, lw=0.4)
                 before = b_age.mean() / sd_age * 100
                 after = (b_age.mean() + b_hin.mean()) / sd_age * 100
                 note = f"${before:+.1f}\\%$ per year before {knot:g}\n${after:+.1f}\\%$ per year after"
                 if kind == "bowling":
                     note += "\n(lower is better)"
-                rising = before > 0
-                ax.text(0.03, 0.95 if rising else 0.05, note, transform=ax.transAxes, color=INK,
-                        va="top" if rising else "bottom", ha="left", fontsize=17)
-                ax.set_title(label)
+                # Rising curves leave the top-left empty, falling ones the top-right.
+                x, ha = (0.03, "left") if before > 0 else (0.97, "right")
+                ax.text(x, 0.95, note, transform=ax.transAxes, color=INK, va="top", ha=ha,
+                        fontsize=8, linespacing=1.1, multialignment="left", zorder=5,
+                        bbox=dict(boxstyle="square,pad=0.15", fc="white", ec="none", alpha=0.9))
+                ax.set_title(label, pad=3)
                 if col == 0:
-                    ax.set_ylabel(f"Difference vs age {knot:g} (%)")
+                    ax.set_ylabel(f"Change vs age {knot:g} (%)")
                 if row == 1:
                     ax.set_xlabel("Career-midpoint age (years)")
-        fig.savefig(OUT_DIR / "age_curve_simple.png", dpi=DPI, facecolor="white")
+        fig.savefig(OUT_DIR / "age_curve_simple.pdf")
+        fig.savefig(OUT_DIR / "age_curve_simple.png", dpi=600, facecolor="white")
         plt.close(fig)
 
 
 def transitions(bat: pd.DataFrame, bowl: pd.DataFrame, path: Path) -> None:
-    """Figure 4: held-out k-NN transfer predictions against actual values."""
+    """Figure 4: held-out predictions from the combined k-NN + own-record estimate, 6.0 x 6.9 in."""
     path.parent.mkdir(parents=True, exist_ok=True)
     rows = [("Batting\naverage", bat, 1), ("Batting\nstrike rate", bat, 2),
             ("Bowling\neconomy rate", bowl, 1), ("Bowling\naverage", bowl, 2)]
-    with plt.rc_context(CLEAN):
-        fig, axes = plt.subplots(4, 3, figsize=(WIDTH, 16.5), layout="constrained")
+    with plt.rc_context({**PRINT, "xtick.labelsize": 7.5, "ytick.labelsize": 7.5}):
+        fig, axes = plt.subplots(4, 3, figsize=(6.0, 6.9), layout="constrained")
         for i, (rname, df, n) in enumerate(rows):
             for j, fmt in enumerate(FORMATS):
                 ax, s = axes[i, j], df[df["target_format"] == fmt]
-                a, p = s[f"true{n}"].to_numpy(float), s[f"knn{n}"].to_numpy(float)
+                a, p = s[f"true{n}"].to_numpy(float), s[f"mix{n}"].to_numpy(float)
                 lo, hi = min(a.min(), p.min()) * 0.95, max(a.max(), p.max()) * 1.05
-                ax.plot([lo, hi], [lo, hi], ls="--", lw=1.2, color=MUTED, zorder=1)
-                ax.scatter(a, p, s=16, alpha=0.45, color=COLOURS[fmt], edgecolors="none", zorder=2)
+                ax.plot([lo, hi], [lo, hi], ls="--", lw=0.7, color=MUTED, zorder=1)
+                # Points are rasterised at 600 dpi; axes and text stay vector.
+                ax.scatter(a, p, s=3, alpha=0.45, color=COLOURS[fmt], edgecolors="none",
+                           zorder=2, rasterized=True)
                 ax.set_xlim(lo, hi)
                 ax.set_ylim(lo, hi)
-                ax.grid(alpha=0.25)
-                ax.text(0.04, 0.95, f"$r = {np.corrcoef(a, p)[0, 1]:.2f}$", transform=ax.transAxes,
-                        va="top", ha="left", color=INK)
+                ax.grid(alpha=0.25, lw=0.4)
+                ax.text(0.05, 0.95, f"$r = {np.corrcoef(a, p)[0, 1]:.2f}$", transform=ax.transAxes,
+                        va="top", ha="left", color=INK, fontsize=8.5)
                 if i == 0:
-                    ax.set_title(f"Target format: {fmt}")
+                    ax.set_title(f"Target: {fmt}", pad=3)
                 if j == 0:
                     ax.set_ylabel(rname)
-        fig.supxlabel("Actual value")
-        fig.supylabel("Predicted value")
-        fig.savefig(path, dpi=DPI, facecolor="white")
+        fig.supxlabel("Actual value", fontsize=9)
+        fig.supylabel("Predicted value", fontsize=9)
+        for out in (path.with_suffix(".pdf"), path.with_suffix(".png")):
+            fig.savefig(out, dpi=600, facecolor="white")
+            print(f"Saved: {out}")
         plt.close(fig)
-    print(f"Saved: {path}")
 
 
 def label_top(ax, rows, xcol, ycol, gap):
